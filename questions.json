@@ -1,4 +1,499 @@
 {
-  "updatedAt": null,
-  "reviews": []
+  "updatedAt": "2026-03-09T21:44:01.718Z",
+  "reviews": [
+    {
+      "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
+      "title": "Unit 3: The Mole",
+      "topics": [
+        "Stoichiometry",
+        "Chemistry"
+      ],
+      "questions": [
+        {
+          "id": "question-stoichiometry-vogadro-s-number-is-10-particles-per-mole-1",
+          "type": "fill",
+          "questionText": "vogadro's number is __________ × 10²³ particles per mole.",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "answers": [
+            "6.02"
+          ]
+        },
+        {
+          "id": "question-stoichiometry-the-molar-mass-of-h-o-is-g-mol-2",
+          "type": "fill",
+          "questionText": "The molar mass of H₂O is __________ g/mol.",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "answers": [
+            "18"
+          ]
+        },
+        {
+          "id": "question-stoichiometry-the-molar-mass-of-co-is-g-mol-3",
+          "type": "fill",
+          "questionText": "The molar mass of CO₂ is __________ g/mol.",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "answers": [
+            "44"
+          ]
+        },
+        {
+          "id": "question-stoichiometry-to-calculate-moles-from-mass-you-divide-by-the-mass-4",
+          "type": "fill",
+          "questionText": "To calculate moles from mass you divide by the __________ mass.",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "answers": [
+            "molar"
+          ]
+        },
+        {
+          "id": "question-stoichiometry-the-empirical-formula-represents-the-whole-number-ratio-of-a-5",
+          "type": "fill",
+          "questionText": "The empirical formula represents the __________ whole-number ratio of atoms in a compound.",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "answers": [
+            "simplest"
+          ]
+        },
+        {
+          "id": "question-stoichiometry-what-is-a-mole-in-chemistry-6",
+          "type": "mc",
+          "questionText": "What is a mole in chemistry?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "A unit of volume",
+            "A unit used to count particles",
+            "A unit of pressure",
+            "A unit of temperature"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-how-many-particles-are-in-one-mole-of-any-substance-7",
+          "type": "mc",
+          "questionText": "How many particles are in one mole of any substance?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "6.02 × 10²²",
+            "6.02 × 10²³",
+            "3.01 × 10²³",
+            "1.00 × 10²³"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-what-is-the-molar-mass-of-o-8",
+          "type": "mc",
+          "questionText": "What is the molar mass of O₂?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "16 g/mol",
+            "32 g/mol",
+            "28 g/mol",
+            "44 g/mol"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-how-many-moles-are-in-44-g-of-co-9",
+          "type": "mc",
+          "questionText": "How many moles are in 44 g of CO₂?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "0.5",
+            "1",
+            "2",
+            "3"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-how-many-grams-are-in-2-moles-of-co-10",
+          "type": "mc",
+          "questionText": "How many grams are in 2 moles of CO₂?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "44",
+            "88",
+            "66",
+            "22"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-how-many-moles-are-in-36-g-of-h-o-11",
+          "type": "mc",
+          "questionText": "How many moles are in 36 g of H₂O?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-how-many-grams-are-in-3-moles-of-h-o-12",
+          "type": "mc",
+          "questionText": "How many grams are in 3 moles of H₂O?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "36",
+            "54",
+            "72",
+            "18"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-how-many-moles-are-in-32-g-of-o-13",
+          "type": "mc",
+          "questionText": "How many moles are in 32 g of O₂?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "0.5",
+            "1",
+            "2",
+            "3"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-how-many-grams-are-in-4-moles-of-o-14",
+          "type": "mc",
+          "questionText": "How many grams are in 4 moles of O₂?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "64",
+            "96",
+            "128",
+            "32"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-how-many-molecules-are-in-2-moles-of-co-15",
+          "type": "mc",
+          "questionText": "How many molecules are in 2 moles of CO₂?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "6.02 × 10²³",
+            "1.204 × 10²⁴",
+            "3.01 × 10²³",
+            "2.00 × 10²³"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-how-many-moles-are-in-3-01-10-molecules-16",
+          "type": "mc",
+          "questionText": "How many moles are in 3.01 × 10²³ molecules?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "0.5",
+            "1",
+            "2",
+            "3"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-what-is-the-molar-mass-of-nacl-17",
+          "type": "mc",
+          "questionText": "What is the molar mass of NaCl?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "23",
+            "58.5",
+            "35.5",
+            "60"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-how-many-grams-are-in-2-moles-of-nacl-18",
+          "type": "mc",
+          "questionText": "How many grams are in 2 moles of NaCl?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "117",
+            "58.5",
+            "35.5",
+            "29"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-how-many-moles-are-in-29-25-g-of-nacl-19",
+          "type": "mc",
+          "questionText": "How many moles are in 29.25 g of NaCl?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "0.5",
+            "1",
+            "2",
+            "3"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-percent-composition-represents-20",
+          "type": "mc",
+          "questionText": "Percent composition represents:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Total atoms in a compound",
+            "Percentage of each element by mass",
+            "Moles of each element",
+            "Molecular mass"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-percent-of-water-is-oxygen-21",
+          "type": "mc",
+          "questionText": "What percent of water is oxygen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "11%",
+            "50%",
+            "89%",
+            "16%"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-what-percent-of-water-is-hydrogen-22",
+          "type": "mc",
+          "questionText": "What percent of water is hydrogen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "11%",
+            "22%",
+            "50%",
+            "5%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-co-is-carbon-23",
+          "type": "mc",
+          "questionText": "What percent of CO₂ is carbon?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "27%",
+            "50%",
+            "75%",
+            "12%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-what-is-the-empirical-formula-of-a-compound-with-40-c-6-7-h--24",
+          "type": "mc",
+          "questionText": "What is the empirical formula of a compound with 40% C, 6.7% H, 53.3% O?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH₂O",
+            "CHO",
+            "C₂H₄O₂",
+            "C₃H₆O₃"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-what-is-the-first-step-when-solving-empirical-formula-proble-25",
+          "type": "mc",
+          "questionText": "What is the first step when solving empirical formula problems?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "Convert percentages to grams",
+            "Multiply percentages",
+            "Divide by molar mass",
+            "Add masses"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-after-converting-grams-to-moles-you-divide-by-the-26",
+          "type": "mc",
+          "questionText": "After converting grams to moles you divide by the:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "Largest value",
+            "Smallest value",
+            "Total value",
+            "Atomic number"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-if-the-empirical-formula-is-ch-o-and-molar-mass-is-180-g-mol-27",
+          "type": "mc",
+          "questionText": "If the empirical formula is CH₂O and molar mass is 180 g/mol, the molecular formula is:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH₂O",
+            "C₂H₄O₂",
+            "C₆H₁₂O₆",
+            "C₃H₆O₃"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-if-empirical-formula-mass-is-30-and-molar-mass-is-180-the-mu-28",
+          "type": "mc",
+          "questionText": "If empirical formula mass is 30 and molar mass is 180, the multiplier is:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "2",
+            "3",
+            "6",
+            "9"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-if-the-empirical-formula-is-ch-and-molar-mass-is-78-g-mol-th-29",
+          "type": "mc",
+          "questionText": "If the empirical formula is CH and molar mass is 78 g/mol, the molecular formula is:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "C₂H₂",
+            "C₃H₃",
+            "C₆H₆",
+            "C₄H₄"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-how-many-moles-are-in-18-g-of-h-o-30",
+          "type": "mc",
+          "questionText": "How many moles are in 18 g of H₂O?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "0.5",
+            "1",
+            "2",
+            "3"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-how-many-grams-are-in-4-moles-of-co-31",
+          "type": "mc",
+          "questionText": "How many grams are in 4 moles of CO₂?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "176",
+            "88",
+            "132",
+            "44"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-how-many-molecules-are-in-one-mole-32",
+          "type": "mc",
+          "questionText": "How many molecules are in one mole?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "6.02 × 10²³",
+            "3.01 × 10²³",
+            "1.00 × 10²³",
+            "6.02 × 10²²"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-how-many-moles-are-in-1-204-10-molecules-33",
+          "type": "mc",
+          "questionText": "How many moles are in 1.204 × 10²⁴ molecules?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-dimensional-analysis-is-used-to-34",
+          "type": "mc",
+          "questionText": "Dimensional analysis is used to:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Name compounds",
+            "Convert units",
+            "Measure volume",
+            "Identify atoms"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-the-mole-connects-mass-particles-and-35",
+          "type": "mc",
+          "questionText": "The mole connects mass, particles, and:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "pressure",
+            "temperature",
+            "amount of substance",
+            "density"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-the-molecular-formula-shows-the-36",
+          "type": "mc",
+          "questionText": "The molecular formula shows the:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "Simplest ratio",
+            "Actual number of atoms",
+            "Percent composition",
+            "Molar mass"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ]
 }
