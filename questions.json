@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T16:24:30.404Z",
+  "updatedAt": "2026-03-11T16:26:48.102Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -1708,6 +1708,225 @@
             "temperature and mass"
           ],
           "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "review-3939afc6-0239-40f5-b4e1-58ba4dc03741",
+      "title": "Unit 3: Empirical Formulas",
+      "topics": [
+        "Stoichiometry"
+      ],
+      "questions": [
+        {
+          "id": "question-stoichiometry-a-compound-contains-40-carbon-6-7-hydrogen-and-53-3-oxygen-w-1",
+          "type": "mc",
+          "questionText": "A compound contains 40% carbon, 6.7% hydrogen, and 53.3% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH₂O",
+            "CHO",
+            "C₂H₄O₂",
+            "C₃H₆O₃"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-27-3-carbon-and-72-7-oxygen-what-is-the--2",
+          "type": "mc",
+          "questionText": "A compound contains 27.3% carbon and 72.7% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CO",
+            "CO₂",
+            "C₂O₃",
+            "C₃O₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-75-carbon-and-25-hydrogen-what-is-the-em-3",
+          "type": "mc",
+          "questionText": "A compound contains 75% carbon and 25% hydrogen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH",
+            "CH₂",
+            "CH₃",
+            "CH₄"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-82-4-nitrogen-and-17-6-hydrogen-what-is--4",
+          "type": "mc",
+          "questionText": "A compound contains 82.4% nitrogen and 17.6% hydrogen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "NH",
+            "NH₂",
+            "NH₃",
+            "N₂H₄"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-50-sulfur-and-50-oxygen-what-is-the-empi-5",
+          "type": "mc",
+          "questionText": "A compound contains 50% sulfur and 50% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "SO",
+            "SO₂",
+            "S₂O₃",
+            "SO₃"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-60-magnesium-and-40-oxygen-what-is-the-e-6",
+          "type": "mc",
+          "questionText": "A compound contains 60% magnesium and 40% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "Mg₂O",
+            "MgO",
+            "MgO₂",
+            "Mg₂O₃"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-39-3-sodium-and-60-7-chlorine-what-is-th-7",
+          "type": "mc",
+          "questionText": "A compound contains 39.3% sodium and 60.7% chlorine. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "Na₂Cl",
+            "NaCl",
+            "NaCl₂",
+            "Na₂Cl₃"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-52-2-carbon-13-0-hydrogen-and-34-8-oxyge-8",
+          "type": "mc",
+          "questionText": "A compound contains 52.2% carbon, 13.0% hydrogen, and 34.8% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "C₂H₆O",
+            "CH₃O",
+            "C₃H₈O",
+            "C₂H₄O₂"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-63-6-nitrogen-and-36-4-oxygen-what-is-th-9",
+          "type": "mc",
+          "questionText": "A compound contains 63.6% nitrogen and 36.4% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "NO",
+            "NO₂",
+            "N₂O",
+            "N₂O₃"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-57-1-carbon-and-42-9-oxygen-what-is-the--10",
+          "type": "mc",
+          "questionText": "A compound contains 57.1% carbon and 42.9% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CO₂",
+            "C₂O",
+            "CO",
+            "C₂O₃"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-40-calcium-12-carbon-and-48-oxygen-what--11",
+          "type": "mc",
+          "questionText": "A compound contains 40% calcium, 12% carbon, and 48% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CaCO₃",
+            "Ca₂CO₃",
+            "CaC₂O₃",
+            "CaCO₂"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-69-6-iron-and-30-4-oxygen-what-is-the-em-12",
+          "type": "mc",
+          "questionText": "A compound contains 69.6% iron and 30.4% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "FeO",
+            "Fe₂O₃",
+            "Fe₃O₄",
+            "FeO₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-28-nitrogen-and-72-oxygen-what-is-the-em-13",
+          "type": "mc",
+          "questionText": "A compound contains 28% nitrogen and 72% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "NO",
+            "NO₂",
+            "N₂O",
+            "N₂O₅"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-43-8-phosphorus-and-56-2-oxygen-what-is--14",
+          "type": "mc",
+          "questionText": "A compound contains 43.8% phosphorus and 56.2% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "PO",
+            "PO₂",
+            "P₂O₅",
+            "P₂O₃"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-30-4-lithium-and-69-6-chlorine-what-is-t-15",
+          "type": "mc",
+          "questionText": "A compound contains 30.4% lithium and 69.6% chlorine. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "Li₂Cl",
+            "LiCl",
+            "LiCl₂",
+            "Li₂Cl₃"
+          ],
+          "correctIndex": 1
         }
       ]
     }
