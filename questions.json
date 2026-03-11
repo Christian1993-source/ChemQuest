@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T16:26:48.102Z",
+  "updatedAt": "2026-03-11T16:30:41.252Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -1927,6 +1927,225 @@
             "Li₂Cl₃"
           ],
           "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "review-d4202f54-074c-4639-bbd7-560e0b92f0d9",
+      "title": "Unit 3: Molecular Formula",
+      "topics": [
+        "Stoichiometry"
+      ],
+      "questions": [
+        {
+          "id": "question-stoichiometry-a-compound-contains-75-c-and-25-h-its-molar-mass-is-32-g-mol-1",
+          "type": "mc",
+          "questionText": "A compound contains 75% C and 25% H. Its molar mass is 32 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH₄",
+            "C₂H₈",
+            "C₃H₁₂",
+            "C₄H₁₆"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-85-7-c-and-14-3-h-its-molar-mass-is-56-g-2",
+          "type": "mc",
+          "questionText": "A compound contains 85.7% C and 14.3% H. Its molar mass is 56 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH₂",
+            "C₂H₄",
+            "C₄H₈",
+            "C₃H₆"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-80-c-and-20-h-its-molar-mass-is-30-g-mol-3",
+          "type": "mc",
+          "questionText": "A compound contains 80% C and 20% H. Its molar mass is 30 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH₃",
+            "C₂H₆",
+            "C₃H₉",
+            "C₄H₁₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-40-c-6-7-h-and-53-3-o-its-molar-mass-is--4",
+          "type": "mc",
+          "questionText": "A compound contains 40% C, 6.7% H, and 53.3% O. Its molar mass is 60 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH₂O",
+            "C₂H₄O₂",
+            "C₃H₆O₃",
+            "C₄H₈O₄"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-40-c-6-7-h-and-53-3-o-its-molar-mass-is--5",
+          "type": "mc",
+          "questionText": "A compound contains 40% C, 6.7% H, and 53.3% O. Its molar mass is 180 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH₂O",
+            "C₂H₄O₂",
+            "C₆H₁₂O₆",
+            "C₃H₆O₃"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-27-3-c-and-72-7-o-its-molar-mass-is-88-g-6",
+          "type": "mc",
+          "questionText": "A compound contains 27.3% C and 72.7% O. Its molar mass is 88 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CO",
+            "CO₂",
+            "C₂O₄",
+            "C₃O₆"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-42-9-c-and-57-1-o-its-molar-mass-is-56-g-7",
+          "type": "mc",
+          "questionText": "A compound contains 42.9% C and 57.1% O. Its molar mass is 56 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CO",
+            "C₂O₂",
+            "C₃O₃",
+            "C₄O₄"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-63-6-n-and-36-4-o-its-molar-mass-is-92-g-8",
+          "type": "mc",
+          "questionText": "A compound contains 63.6% N and 36.4% O. Its molar mass is 92 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "NO",
+            "NO₂",
+            "N₂O₄",
+            "N₂O"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-30-4-n-and-69-6-o-its-molar-mass-is-92-g-9",
+          "type": "mc",
+          "questionText": "A compound contains 30.4% N and 69.6% O. Its molar mass is 92 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "NO₂",
+            "N₂O₄",
+            "N₃O₆",
+            "NO"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-52-2-c-13-0-h-and-34-8-o-its-molar-mass--10",
+          "type": "mc",
+          "questionText": "A compound contains 52.2% C, 13.0% H, and 34.8% O. Its molar mass is 92 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "C₂H₆O",
+            "C₄H₁₂O₂",
+            "C₃H₈O",
+            "C₅H₁₄O₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-39-3-na-and-60-7-cl-its-molar-mass-is-11-11",
+          "type": "mc",
+          "questionText": "A compound contains 39.3% Na and 60.7% Cl. Its molar mass is 117 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "NaCl",
+            "Na₂Cl₂",
+            "Na₃Cl₃",
+            "NaCl₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-60-mg-and-40-o-its-molar-mass-is-80-g-mo-12",
+          "type": "mc",
+          "questionText": "A compound contains 60% Mg and 40% O. Its molar mass is 80 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "MgO",
+            "Mg₂O₂",
+            "Mg₃O₃",
+            "MgO₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-92-3-c-and-7-7-h-its-molar-mass-is-78-g--13",
+          "type": "mc",
+          "questionText": "A compound contains 92.3% C and 7.7% H. Its molar mass is 78 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH",
+            "C₂H₂",
+            "C₆H₆",
+            "C₃H₃"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-87-5-n-and-12-5-h-its-molar-mass-is-32-g-14",
+          "type": "mc",
+          "questionText": "A compound contains 87.5% N and 12.5% H. Its molar mass is 32 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "NH₂",
+            "NH₃",
+            "N₂H₄",
+            "N₃H₆"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-88-9-c-and-11-1-h-its-molar-mass-is-54-g-15",
+          "type": "mc",
+          "questionText": "A compound contains 88.9% C and 11.1% H. Its molar mass is 54 g/mol. What is the molecular formula?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH",
+            "C₂H₂",
+            "C₄H₆",
+            "C₃H₃"
+          ],
+          "correctIndex": 2
         }
       ]
     }
