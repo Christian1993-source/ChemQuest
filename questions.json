@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T16:02:28.008Z",
+  "updatedAt": "2026-03-11T16:24:30.404Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -1137,6 +1137,577 @@
             "90"
           ],
           "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "review-79091057-a847-4715-91c5-9a8987a48335",
+      "title": "Unit 3: Percent Composition",
+      "topics": [
+        "Chemistry",
+        "Acids and bases",
+        "Stoichiometry"
+      ],
+      "questions": [
+        {
+          "id": "question-chemistry-what-does-percent-composition-represent-in-a-compound-1",
+          "type": "mc",
+          "questionText": "What does percent composition represent in a compound?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Total number of atoms",
+            "Percentage of each element by mass",
+            "Number of moles",
+            "Volume of the compound"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-what-is-percent-composition-based-on-2",
+          "type": "mc",
+          "questionText": "What is percent composition based on?",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "Mass",
+            "Temperature",
+            "Pressure",
+            "Density"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-water-h-o-is-oxygen-3",
+          "type": "mc",
+          "questionText": "What percent of water (H₂O) is oxygen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "11%",
+            "50%",
+            "89%",
+            "16%"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-what-percent-of-water-h-o-is-hydrogen-4",
+          "type": "mc",
+          "questionText": "What percent of water (H₂O) is hydrogen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "11%",
+            "22%",
+            "50%",
+            "5%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-co-is-carbon-5",
+          "type": "mc",
+          "questionText": "What percent of CO₂ is carbon?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "27%",
+            "50%",
+            "75%",
+            "12%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-co-is-oxygen-6",
+          "type": "mc",
+          "questionText": "What percent of CO₂ is oxygen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "27%",
+            "73%",
+            "50%",
+            "12%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-percent-composition-is-useful-to-determine-7",
+          "type": "mc",
+          "questionText": "Percent composition is useful to determine:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Empirical formulas",
+            "Temperature",
+            "Pressure",
+            "Volume"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-n-is-nitrogen-8",
+          "type": "mc",
+          "questionText": "What percent of N₂ is nitrogen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "50%",
+            "100%",
+            "14%",
+            "28%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-percent-of-nacl-is-sodium-9",
+          "type": "mc",
+          "questionText": "What percent of NaCl is sodium?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "39%",
+            "50%",
+            "61%",
+            "23%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-nacl-is-chlorine-10",
+          "type": "mc",
+          "questionText": "What percent of NaCl is chlorine?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "39%",
+            "61%",
+            "50%",
+            "23%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-percent-of-ch-is-hydrogen-11",
+          "type": "mc",
+          "questionText": "What percent of CH₄ is hydrogen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "25%",
+            "50%",
+            "75%",
+            "12%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-ch-is-carbon-12",
+          "type": "mc",
+          "questionText": "What percent of CH₄ is carbon?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "75%",
+            "25%",
+            "50%",
+            "12%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-nh-is-hydrogen-13",
+          "type": "mc",
+          "questionText": "What percent of NH₃ is hydrogen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "18%",
+            "50%",
+            "75%",
+            "10%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-nh-is-nitrogen-14",
+          "type": "mc",
+          "questionText": "What percent of NH₃ is nitrogen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "18%",
+            "82%",
+            "50%",
+            "75%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-percent-of-h-o-is-hydrogen-15",
+          "type": "mc",
+          "questionText": "What percent of H₂O₂ is hydrogen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "6%",
+            "12%",
+            "25%",
+            "50%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-h-o-is-oxygen-16",
+          "type": "mc",
+          "questionText": "What percent of H₂O₂ is oxygen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "94%",
+            "75%",
+            "50%",
+            "25%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-co-is-carbon-17",
+          "type": "mc",
+          "questionText": "What percent of CO is carbon?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "43%",
+            "50%",
+            "57%",
+            "75%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-co-is-oxygen-18",
+          "type": "mc",
+          "questionText": "What percent of CO is oxygen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "43%",
+            "57%",
+            "50%",
+            "75%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-percent-of-caco-is-calcium-19",
+          "type": "mc",
+          "questionText": "What percent of CaCO₃ is calcium?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "40%",
+            "50%",
+            "60%",
+            "20%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-caco-is-carbon-20",
+          "type": "mc",
+          "questionText": "What percent of CaCO₃ is carbon?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "12%",
+            "40%",
+            "50%",
+            "60%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-percent-composition-is-calculated-using-21",
+          "type": "mc",
+          "questionText": "Percent composition is calculated using:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "mass of element ÷ molar mass × 100",
+            "pressure × volume",
+            "density × mass",
+            "temperature × moles"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-so-is-oxygen-22",
+          "type": "mc",
+          "questionText": "What percent of SO₂ is oxygen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "50%",
+            "67%",
+            "25%",
+            "80%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-percent-of-so-is-sulfur-23",
+          "type": "mc",
+          "questionText": "What percent of SO₂ is sulfur?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "33%",
+            "50%",
+            "67%",
+            "25%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-so-is-oxygen-24",
+          "type": "mc",
+          "questionText": "What percent of SO₃ is oxygen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "50%",
+            "60%",
+            "75%",
+            "33%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-percent-of-so-is-sulfur-25",
+          "type": "mc",
+          "questionText": "What percent of SO₃ is sulfur?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "40%",
+            "60%",
+            "50%",
+            "75%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-mgo-is-magnesium-26",
+          "type": "mc",
+          "questionText": "What percent of MgO is magnesium?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "60%",
+            "40%",
+            "50%",
+            "25%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-mgo-is-oxygen-27",
+          "type": "mc",
+          "questionText": "What percent of MgO is oxygen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "60%",
+            "40%",
+            "50%",
+            "25%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-percent-of-naoh-is-sodium-28",
+          "type": "mc",
+          "questionText": "What percent of NaOH is sodium?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "57%",
+            "40%",
+            "50%",
+            "25%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-naoh-is-oxygen-29",
+          "type": "mc",
+          "questionText": "What percent of NaOH is oxygen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "40%",
+            "57%",
+            "25%",
+            "50%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-naoh-is-hydrogen-30",
+          "type": "mc",
+          "questionText": "What percent of NaOH is hydrogen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "2.5%",
+            "10%",
+            "25%",
+            "40%"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-percent-composition-values-always-add-to-31",
+          "type": "mc",
+          "questionText": "Percent composition values always add to:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "50%",
+            "75%",
+            "100%",
+            "200%"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-the-percent-of-oxygen-increases-in-a-compound-the-percent-32",
+          "type": "mc",
+          "questionText": "If the percent of oxygen increases in a compound, the percent of another element must:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "increase",
+            "stay the same",
+            "decrease",
+            "double"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-percent-composition-depends-mainly-on-33",
+          "type": "mc",
+          "questionText": "Percent composition depends mainly on:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "atomic masses",
+            "temperature",
+            "pressure",
+            "color"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-elements-with-larger-atomic-mass-usually-contribute-34",
+          "type": "mc",
+          "questionText": "Elements with larger atomic mass usually contribute:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "larger percent",
+            "smaller percent",
+            "equal percent",
+            "zero percent"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-percent-of-o-is-oxygen-35",
+          "type": "mc",
+          "questionText": "What percent of O₂ is oxygen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "50%",
+            "100%",
+            "16%",
+            "32%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-percent-of-h-is-hydrogen-36",
+          "type": "mc",
+          "questionText": "What percent of H₂ is hydrogen?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "50%",
+            "100%",
+            "1%",
+            "2%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-in-co-the-percent-of-carbon-compared-to-oxygen-is-37",
+          "type": "mc",
+          "questionText": "In CO₂, the percent of carbon compared to oxygen is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "smaller",
+            "equal",
+            "larger",
+            "double"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-percent-composition-helps-chemists-determine-38",
+          "type": "mc",
+          "questionText": "Percent composition helps chemists determine:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "chemical formulas",
+            "speed",
+            "density",
+            "pressure"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-empirical-formulas-can-be-found-using-39",
+          "type": "mc",
+          "questionText": "Empirical formulas can be found using:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "percent composition",
+            "temperature",
+            "pressure",
+            "density"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-molecular-formulas-can-be-determined-using-40",
+          "type": "mc",
+          "questionText": "Molecular formulas can be determined using:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "percent composition and molar mass",
+            "pressure and volume",
+            "speed and density",
+            "temperature and mass"
+          ],
+          "correctIndex": 0
         }
       ]
     }
