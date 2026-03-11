@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-03-11T15:21:31.253Z",
+  "updatedAt": "2026-03-11T15:24:34.399Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
       "title": "Unit 3: The Mole Concept",
       "topics": [
-        "Stoichiometry",
-        "Chemistry"
+        "Chemistry",
+        "Stoichiometry"
       ],
       "questions": [
         {
-          "id": "question-stoichiometry-what-is-a-mole-in-chemistry-1",
+          "id": "question-chemistry-what-is-a-mole-in-chemistry-1",
           "type": "mc",
           "questionText": "What is a mole in chemistry?",
-          "topic": "Stoichiometry",
+          "topic": "Chemistry",
           "hint": "Track formulas, ratios, and total mass carefully.",
           "choices": [
             "A unit to count particles",
@@ -24,10 +24,10 @@
           "correctIndex": 0
         },
         {
-          "id": "question-chemistry-avogadro-s-number-is-2",
+          "id": "question-stoichiometry-avogadro-s-number-is-2",
           "type": "mc",
           "questionText": "Avogadro’s number is:",
-          "topic": "Chemistry",
+          "topic": "Stoichiometry",
           "hint": "Look for the main chemistry idea in the question stem.",
           "choices": [
             "6.02 × 10²³",
