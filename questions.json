@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T19:34:49.273Z",
+  "updatedAt": "2026-03-12T19:41:13.567Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -3657,6 +3657,604 @@
             "change",
             "stop always",
             "become zero"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "review-c8b3470c-6dc6-4a5d-9875-3f7bb8f423a5",
+      "title": "Unit 1 Physics: Speed vs Velocity",
+      "topics": [
+        "Chemistry",
+        "Acids and bases"
+      ],
+      "questions": [
+        {
+          "id": "question-chemistry-speed-is-defined-as-1",
+          "type": "mc",
+          "questionText": "Speed is defined as:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "distance divided by time",
+            "displacement divided by time",
+            "force divided by mass",
+            "mass divided by time"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-velocity-is-defined-as-2",
+          "type": "mc",
+          "questionText": "Velocity is defined as:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "distance over time",
+            "speed with direction",
+            "acceleration over time",
+            "force with direction"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-speed-is-a-quantity-3",
+          "type": "mc",
+          "questionText": "Speed is a __________ quantity.",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "vector",
+            "scalar",
+            "directional",
+            "negative"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-velocity-is-a-quantity-4",
+          "type": "mc",
+          "questionText": "Velocity is a __________ quantity.",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "scalar",
+            "vector",
+            "constant",
+            "random"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-car-travels-100-m-in-5-s-what-is-its-speed-5",
+          "type": "mc",
+          "questionText": "A car travels 100 m in 5 s. What is its speed?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "10 m/s",
+            "15 m/s",
+            "20 m/s",
+            "25 m/s"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-an-object-changes-direction-its-velocity-will-6",
+          "type": "mc",
+          "questionText": "If an object changes direction, its velocity will:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "stay the same",
+            "decrease",
+            "change",
+            "become zero"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-an-object-moves-in-a-circle-at-constant-speed-its-velocit-7",
+          "type": "mc",
+          "questionText": "If an object moves in a circle at constant speed, its velocity is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "constant",
+            "zero",
+            "changing",
+            "increasing"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-speed-can-never-be-8",
+          "type": "mc",
+          "questionText": "Speed can never be:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "positive",
+            "negative",
+            "constant",
+            "measured"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-velocity-can-be-9",
+          "type": "mc",
+          "questionText": "Velocity can be:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "negative",
+            "always positive",
+            "always zero",
+            "never measured"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-average-speed-is-calculated-using-10",
+          "type": "mc",
+          "questionText": "Average speed is calculated using:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "displacement ÷ time",
+            "distance ÷ time",
+            "acceleration ÷ time",
+            "mass ÷ time"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-average-velocity-is-calculated-using-11",
+          "type": "mc",
+          "questionText": "Average velocity is calculated using:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "distance ÷ time",
+            "displacement ÷ time",
+            "force ÷ mass",
+            "speed × time"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-an-object-travels-60-m-east-in-10-s-what-is-its-velocity-12",
+          "type": "mc",
+          "questionText": "An object travels 60 m east in 10 s. What is its velocity?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "6 m/s",
+            "6 m/s east",
+            "60 m/s",
+            "10 m/s"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-total-displacement-is-zero-average-velocity-is-13",
+          "type": "mc",
+          "questionText": "If total displacement is zero, average velocity is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "maximum",
+            "zero",
+            "infinite",
+            "constant"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-total-distance-is-not-zero-average-speed-is-14",
+          "type": "mc",
+          "questionText": "If total distance is not zero, average speed is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "zero",
+            "positive",
+            "negative",
+            "infinite"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-runner-completes-one-lap-and-returns-to-the-start-displace-15",
+          "type": "mc",
+          "questionText": "A runner completes one lap and returns to the start. Displacement is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "equal to distance",
+            "zero",
+            "maximum",
+            "negative"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-distance-is-a-quantity-16",
+          "type": "mc",
+          "questionText": "Distance is a __________ quantity.",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "vector",
+            "scalar",
+            "directional",
+            "variable"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-displacement-is-a-quantity-17",
+          "type": "mc",
+          "questionText": "Displacement is a __________ quantity.",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "scalar",
+            "vector",
+            "constant",
+            "imaginary"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-has-direction-18",
+          "type": "mc",
+          "questionText": "Which has direction?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "speed",
+            "velocity",
+            "distance",
+            "time"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-has-magnitude-only-19",
+          "type": "mc",
+          "questionText": "Which has magnitude only?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "velocity",
+            "displacement",
+            "speed",
+            "acceleration"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-a-car-moves-200-m-in-20-s-speed-is-20",
+          "type": "mc",
+          "questionText": "A car moves 200 m in 20 s. Speed is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "5 m/s",
+            "8 m/s",
+            "10 m/s",
+            "12 m/s"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-a-cyclist-moves-30-m-north-in-6-s-velocity-is-21",
+          "type": "mc",
+          "questionText": "A cyclist moves 30 m north in 6 s. Velocity is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "5 m/s",
+            "5 m/s north",
+            "30 m/s",
+            "6 m/s"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-instantaneous-speed-is-22",
+          "type": "mc",
+          "questionText": "Instantaneous speed is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "average speed",
+            "speed at a specific moment",
+            "displacement per time",
+            "velocity change"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-instantaneous-velocity-is-23",
+          "type": "mc",
+          "questionText": "Instantaneous velocity is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "average velocity",
+            "velocity at a specific moment",
+            "speed without direction",
+            "force per time"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-time-doubles-and-distance-stays-same-speed-will-24",
+          "type": "mc",
+          "questionText": "If time doubles and distance stays same, speed will:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "double",
+            "halve",
+            "stay same",
+            "increase randomly"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-distance-doubles-and-time-stays-same-speed-will-25",
+          "type": "mc",
+          "questionText": "If distance doubles and time stays same, speed will:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "halve",
+            "double",
+            "stay same",
+            "become zero"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-unit-of-speed-in-si-is-26",
+          "type": "mc",
+          "questionText": "Unit of speed in SI is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "km",
+            "m/s",
+            "s/m",
+            "N"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-unit-of-velocity-in-si-is-27",
+          "type": "mc",
+          "questionText": "Unit of velocity in SI is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "m/s",
+            "kg",
+            "N",
+            "J"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-if-velocity-is-constant-acceleration-is-28",
+          "type": "mc",
+          "questionText": "If velocity is constant, acceleration is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "maximum",
+            "zero",
+            "infinite",
+            "negative"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-plane-moves-west-at-250-m-s-this-describes-29",
+          "type": "mc",
+          "questionText": "A plane moves west at 250 m/s. This describes:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "speed",
+            "velocity",
+            "acceleration",
+            "distance"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-statement-is-correct-30",
+          "type": "mc",
+          "questionText": "Which statement is correct?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Speed includes direction",
+            "Velocity includes direction",
+            "Distance includes direction",
+            "Time includes direction"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-an-object-moves-back-and-forth-its-average-velocity-may-b-31",
+          "type": "mc",
+          "questionText": "If an object moves back and forth, its average velocity may be:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "very large",
+            "zero",
+            "negative always",
+            "infinite"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-total-distance-100-m-and-time-20-s-average-speed-is-32",
+          "type": "mc",
+          "questionText": "If total distance = 100 m and time = 20 s, average speed is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "2 m/s",
+            "4 m/s",
+            "5 m/s",
+            "10 m/s"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-displacement-40-m-south-in-8-s-velocity-is-33",
+          "type": "mc",
+          "questionText": "If displacement = 40 m south in 8 s, velocity is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "5 m/s",
+            "5 m/s south",
+            "8 m/s",
+            "40 m/s"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-which-graph-represents-constant-speed-34",
+          "type": "mc",
+          "questionText": "Which graph represents constant speed?",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "curved line",
+            "horizontal line on distance-time graph",
+            "straight sloped line on distance-time graph",
+            "vertical line"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-changing-direction-without-changing-speed-means-35",
+          "type": "mc",
+          "questionText": "Changing direction without changing speed means:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "speed changes",
+            "velocity changes",
+            "mass changes",
+            "time changes"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-a-car-travels-north-then-south-displacement-depends-on-36",
+          "type": "mc",
+          "questionText": "If a car travels north then south, displacement depends on:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "total distance",
+            "direction",
+            "time only",
+            "speed only"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-speedometer-measures-37",
+          "type": "mc",
+          "questionText": "Speedometer measures:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "velocity",
+            "acceleration",
+            "speed",
+            "displacement"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-gps-navigation-calculates-38",
+          "type": "mc",
+          "questionText": "GPS navigation calculates:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "speed only",
+            "velocity including direction",
+            "mass",
+            "force"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-situation-shows-zero-velocity-39",
+          "type": "mc",
+          "questionText": "Which situation shows zero velocity?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "moving at constant speed",
+            "changing direction",
+            "returning to starting point",
+            "accelerating forward"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-an-object-moves-faster-speed-will-40",
+          "type": "mc",
+          "questionText": "If an object moves faster, speed will:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "decrease",
+            "increase",
+            "stay same",
+            "become zero"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-velocity-changes-one-possible-cause-is-41",
+          "type": "mc",
+          "questionText": "If velocity changes, one possible cause is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "change in direction",
+            "change in color",
+            "change in mass always",
+            "change in temperature"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-in-circular-motion-speed-may-be-constant-but-velocity-42",
+          "type": "mc",
+          "questionText": "In circular motion, speed may be constant but velocity:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "is constant",
+            "changes",
+            "becomes zero",
+            "disappears"
           ],
           "correctIndex": 1
         }
