@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T19:44:19.174Z",
+  "updatedAt": "2026-03-12T20:05:24.503Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -4881,6 +4881,674 @@
             "maximum",
             "negative",
             "infinite"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "review-7463ea67-e043-452b-9a64-251718e842e8",
+      "title": "Unit 1: Physics - Acceleration",
+      "topics": [
+        "Chemistry",
+        "Acids and bases"
+      ],
+      "questions": [
+        {
+          "id": "question-chemistry-acceleration-is-defined-as-1",
+          "type": "mc",
+          "questionText": "Acceleration is defined as:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "change in distance",
+            "change in velocity over time",
+            "mass divided by force",
+            "speed multiplied by time"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-the-si-unit-of-acceleration-is-2",
+          "type": "mc",
+          "questionText": "The SI unit of acceleration is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "m/s",
+            "m/s²",
+            "m²/s",
+            "N"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-velocity-increases-acceleration-is-3",
+          "type": "mc",
+          "questionText": "If velocity increases, acceleration is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "zero",
+            "negative",
+            "positive",
+            "constant"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-velocity-decreases-acceleration-is-4",
+          "type": "mc",
+          "questionText": "If velocity decreases, acceleration is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "positive",
+            "zero",
+            "negative",
+            "infinite"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-velocity-is-constant-acceleration-is-5",
+          "type": "mc",
+          "questionText": "If velocity is constant, acceleration is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "maximum",
+            "zero",
+            "negative",
+            "increasing"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-acceleration-can-be-caused-by-6",
+          "type": "mc",
+          "questionText": "Acceleration can be caused by:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "change in speed",
+            "change in direction",
+            "both A and B",
+            "neither"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-an-object-moving-in-a-circle-has-acceleration-because-7",
+          "type": "mc",
+          "questionText": "An object moving in a circle has acceleration because:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "mass changes",
+            "direction changes",
+            "speed stops",
+            "gravity disappears"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-free-fall-acceleration-near-earth-is-about-8",
+          "type": "mc",
+          "questionText": "Free fall acceleration near Earth is about:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "5 m/s²",
+            "9.8 m/s²",
+            "15 m/s²",
+            "1 m/s²"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-acceleration-is-positive-velocity-will-9",
+          "type": "mc",
+          "questionText": "If acceleration is positive, velocity will:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "decrease",
+            "increase",
+            "stay same",
+            "reverse"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-acceleration-is-zero-motion-is-10",
+          "type": "mc",
+          "questionText": "If acceleration is zero, motion is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "changing",
+            "constant velocity",
+            "stopped always",
+            "random"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-acceleration-can-be-calculated-using-11",
+          "type": "mc",
+          "questionText": "Acceleration can be calculated using:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "a = v/t",
+            "a = Δv / t",
+            "a = d/t",
+            "a = mF"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-car-increases-velocity-from-10-m-s-to-20-m-s-in-5-s-accele-12",
+          "type": "mc",
+          "questionText": "A car increases velocity from 10 m/s to 20 m/s in 5 s. Acceleration is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "1 m/s²",
+            "2 m/s²",
+            "5 m/s²",
+            "10 m/s²"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-car-slows-from-30-m-s-to-10-m-s-in-4-s-acceleration-is-13",
+          "type": "mc",
+          "questionText": "A car slows from 30 m/s to 10 m/s in 4 s. Acceleration is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "+5 m/s²",
+            "−5 m/s²",
+            "10 m/s²",
+            "20 m/s²"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-time-increases-and-change-in-velocity-stays-same-accelera-14",
+          "type": "mc",
+          "questionText": "If time increases and change in velocity stays same, acceleration will:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "increase",
+            "decrease",
+            "stay same",
+            "double"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-situation-shows-acceleration-15",
+          "type": "mc",
+          "questionText": "Which situation shows acceleration?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "constant speed straight line",
+            "turning a corner",
+            "standing still",
+            "balanced forces"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-acceleration-depends-on-change-in-16",
+          "type": "mc",
+          "questionText": "Acceleration depends on change in:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "mass",
+            "velocity",
+            "distance",
+            "temperature"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-acceleration-is-negative-object-is-17",
+          "type": "mc",
+          "questionText": "If acceleration is negative, object is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "speeding up always",
+            "slowing down",
+            "stopping instantly",
+            "gaining mass"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-falling-object-speeds-up-because-of-18",
+          "type": "mc",
+          "questionText": "A falling object speeds up because of:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "inertia",
+            "gravity",
+            "friction",
+            "pressure"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-terminal-velocity-occurs-when-acceleration-becomes-19",
+          "type": "mc",
+          "questionText": "Terminal velocity occurs when acceleration becomes:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "maximum",
+            "zero",
+            "negative",
+            "infinite"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-which-graph-shows-constant-acceleration-20",
+          "type": "mc",
+          "questionText": "Which graph shows constant acceleration?",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "curved velocity-time graph",
+            "straight sloped velocity-time graph",
+            "horizontal velocity-time graph",
+            "vertical line"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-a-position-time-graph-shows-21",
+          "type": "mc",
+          "questionText": "A position-time graph shows:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "force vs time",
+            "position vs time",
+            "speed vs time",
+            "mass vs time"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-slope-of-a-position-time-graph-represents-22",
+          "type": "mc",
+          "questionText": "Slope of a position-time graph represents:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "acceleration",
+            "velocity",
+            "force",
+            "energy"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-a-horizontal-line-on-a-position-time-graph-means-23",
+          "type": "mc",
+          "questionText": "A horizontal line on a position-time graph means:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "constant velocity",
+            "acceleration",
+            "object at rest",
+            "changing direction"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-acids-and-bases-a-straight-sloped-line-on-a-position-time-graph-means-24",
+          "type": "mc",
+          "questionText": "A straight sloped line on a position-time graph means:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "acceleration",
+            "constant velocity",
+            "zero motion",
+            "decreasing mass"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-steeper-slope-means-25",
+          "type": "mc",
+          "questionText": "A steeper slope means:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "less velocity",
+            "greater velocity",
+            "zero acceleration",
+            "less distance"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-a-curved-position-time-graph-means-26",
+          "type": "mc",
+          "questionText": "A curved position-time graph means:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "constant speed",
+            "changing velocity",
+            "object at rest",
+            "balanced forces"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-slope-increases-with-time-object-is-27",
+          "type": "mc",
+          "questionText": "If slope increases with time, object is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "slowing down",
+            "speeding up",
+            "stationary",
+            "reversing"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-slope-decreases-with-time-object-is-28",
+          "type": "mc",
+          "questionText": "If slope decreases with time, object is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "accelerating",
+            "slowing down",
+            "constant speed",
+            "gaining mass"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-negative-slope-means-29",
+          "type": "mc",
+          "questionText": "Negative slope means:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "moving forward",
+            "moving backward",
+            "stopped",
+            "accelerating always"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-where-slope-0-velocity-is-30",
+          "type": "mc",
+          "questionText": "Where slope = 0, velocity is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "maximum",
+            "negative",
+            "zero",
+            "infinite"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-line-crosses-origin-object-31",
+          "type": "mc",
+          "questionText": "If line crosses origin, object:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "started at position zero",
+            "stopped moving",
+            "reversed motion",
+            "accelerated"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-two-lines-with-same-slope-mean-32",
+          "type": "mc",
+          "questionText": "Two lines with same slope mean:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "same acceleration",
+            "same velocity",
+            "same distance",
+            "same mass"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-greater-slope-means-greater-33",
+          "type": "mc",
+          "questionText": "Greater slope means greater:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "time",
+            "velocity",
+            "force",
+            "inertia"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-position-decreases-over-time-motion-is-34",
+          "type": "mc",
+          "questionText": "If position decreases over time, motion is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "forward",
+            "backward",
+            "upward",
+            "circular"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-flat-then-sloped-graph-means-object-35",
+          "type": "mc",
+          "questionText": "Flat then sloped graph means object:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "moved then stopped",
+            "stopped then moved",
+            "accelerated then stopped",
+            "reversed"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-curved-upward-graph-means-36",
+          "type": "mc",
+          "questionText": "Curved upward graph means:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "constant velocity",
+            "positive acceleration",
+            "negative acceleration",
+            "zero motion"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-curved-downward-graph-means-37",
+          "type": "mc",
+          "questionText": "Curved downward graph means:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "speeding up",
+            "slowing down",
+            "constant speed",
+            "increasing mass"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-which-graph-shows-fastest-motion-38",
+          "type": "mc",
+          "questionText": "Which graph shows fastest motion?",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "smallest slope",
+            "largest slope",
+            "horizontal line",
+            "curved flat line"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-distance-traveled-can-be-read-from-39",
+          "type": "mc",
+          "questionText": "Distance traveled can be read from:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "slope",
+            "vertical axis change",
+            "horizontal axis",
+            "mass axis"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-time-is-shown-on-which-axis-40",
+          "type": "mc",
+          "questionText": "Time is shown on which axis?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "vertical",
+            "horizontal",
+            "diagonal",
+            "curved"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-position-is-shown-on-which-axis-41",
+          "type": "mc",
+          "questionText": "Position is shown on which axis?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "horizontal",
+            "vertical",
+            "diagonal",
+            "circular"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-two-objects-start-same-position-but-one-line-is-steeper-t-42",
+          "type": "mc",
+          "questionText": "If two objects start same position but one line is steeper, that object:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "moves slower",
+            "moves faster",
+            "stops",
+            "reverses"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-if-graph-line-goes-downward-steeply-object-is-43",
+          "type": "mc",
+          "questionText": "If graph line goes downward steeply, object is:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "moving forward fast",
+            "moving backward fast",
+            "stationary",
+            "accelerating upward"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-if-position-time-graph-is-a-curve-flattening-out-velocity-is-44",
+          "type": "mc",
+          "questionText": "If position-time graph is a curve flattening out, velocity is:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "increasing",
+            "decreasing",
+            "constant",
+            "zero always"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-if-graph-shows-straight-line-then-curve-motion-changes-from-45",
+          "type": "mc",
+          "questionText": "If graph shows straight line then curve, motion changes from:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "constant velocity to acceleration",
+            "acceleration to rest",
+            "rest to inertia",
+            "speed to mass"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-acids-and-bases-position-time-graphs-cannot-directly-show-46",
+          "type": "mc",
+          "questionText": "Position-time graphs cannot directly show:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "velocity direction",
+            "acceleration value",
+            "motion trend",
+            "rest"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acids-and-bases-average-velocity-from-graph-is-found-using-47",
+          "type": "mc",
+          "questionText": "Average velocity from graph is found using:",
+          "topic": "Acids and bases",
+          "hint": "Use the pH scale and the products of neutralization.",
+          "choices": [
+            "total slope",
+            "total area",
+            "total mass",
+            "total force"
           ],
           "correctIndex": 0
         }
