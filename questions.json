@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T17:40:39.533Z",
+  "updatedAt": "2026-03-18T20:38:02.904Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -3295,6 +3295,409 @@
             "32 mol"
           ],
           "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "review-40ab1fb1-a22f-4761-9b40-d78fd1045ff7",
+      "title": "Physics Practice Test",
+      "topics": [
+        "Motion",
+        "Speed",
+        "Velocity",
+        "Scalars and vectors",
+        "Graphs",
+        "Acceleration",
+        "Newton’s First Law",
+        "Mass",
+        "Weight",
+        "Chemistry"
+      ],
+      "questions": [
+        {
+          "id": "question-motion-a-student-walks-6-m-east-and-then-4-m-east-what-is-the-displ-1",
+          "type": "mc",
+          "questionText": "A student walks 6 m East and then 4 m East. What is the displacement?",
+          "topic": "Motion",
+          "hint": "Same direction adds.",
+          "choices": [
+            "2 m East",
+            "10 m East",
+            "6 m East",
+            "4 m East"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-motion-a-student-walks-8-m-north-and-then-3-m-south-what-is-the-dis-2",
+          "type": "mc",
+          "questionText": "A student walks 8 m North and then 3 m South. What is the displacement?",
+          "topic": "Motion",
+          "hint": "Opposite directions subtract.",
+          "choices": [
+            "11 m North",
+            "5 m North",
+            "5 m South",
+            "0 m"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-motion-a-runner-completes-a-200-m-lap-and-stops-where-he-started-wh-3",
+          "type": "mc",
+          "questionText": "A runner completes a 200 m lap and stops where he started. What is displacement?",
+          "topic": "Motion",
+          "hint": "Start = finish.",
+          "choices": [
+            "200 m",
+            "100 m",
+            "0 m",
+            "400 m"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-motion-total-distance-travelled-when-walking-5-m-east-then-5-m-west-4",
+          "type": "numeric",
+          "questionText": "Total distance travelled when walking 5 m East then 5 m West is ___",
+          "topic": "Motion",
+          "hint": "Distance always adds.",
+          "answer": 10,
+          "tolerance": 0.1
+        },
+        {
+          "id": "question-speed-displacement-when-walking-5-m-east-then-5-m-west-is-5",
+          "type": "numeric",
+          "questionText": "Displacement when walking 5 m East then 5 m West is ___",
+          "topic": "Speed",
+          "hint": "Opposite cancels.",
+          "answer": 0,
+          "tolerance": 0.1
+        },
+        {
+          "id": "question-speed-a-car-travels-40-m-in-5-s-speed-is-m-s-6",
+          "type": "numeric",
+          "questionText": "A car travels 40 m in 5 s. Speed is ___ m/s",
+          "topic": "Speed",
+          "hint": "Divide.",
+          "answer": 8,
+          "tolerance": 0.1
+        },
+        {
+          "id": "question-velocity-a-cyclist-moves-at-6-m-s-for-4-s-distance-travelled-is-m-7",
+          "type": "numeric",
+          "questionText": "A cyclist moves at 6 m/s for 4 s. Distance travelled is ___ m",
+          "topic": "Velocity",
+          "hint": "Multiply.",
+          "answer": 24,
+          "tolerance": 0.2
+        },
+        {
+          "id": "question-scalars-and-vectors-velocity-differs-from-speed-because-velocity-8",
+          "type": "mc",
+          "questionText": "Velocity differs from speed because velocity:",
+          "topic": "Scalars and vectors",
+          "hint": "Vector quantity.",
+          "choices": [
+            "has no units",
+            "has direction",
+            "is always larger",
+            "is always positive"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-scalars-and-vectors-which-is-a-scalar-quantity-9",
+          "type": "mc",
+          "questionText": "Which is a scalar quantity?",
+          "topic": "Scalars and vectors",
+          "hint": "No direction.",
+          "choices": [
+            "velocity",
+            "displacement",
+            "speed",
+            "acceleration"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-graphs-which-is-a-vector-quantity-10",
+          "type": "mc",
+          "questionText": "Which is a vector quantity?",
+          "topic": "Graphs",
+          "hint": "Has direction.",
+          "choices": [
+            "mass",
+            "distance",
+            "displacement",
+            "speed"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-graphs-the-slope-of-a-position-time-graph-gives-11",
+          "type": "mc",
+          "questionText": "The slope of a position–time graph gives:",
+          "topic": "Graphs",
+          "hint": "Rate of change of position.",
+          "choices": [
+            "acceleration",
+            "speed",
+            "velocity",
+            "distance"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-graphs-a-horizontal-line-on-a-position-time-graph-means-12",
+          "type": "mc",
+          "questionText": "A horizontal line on a position–time graph means:",
+          "topic": "Graphs",
+          "hint": "Position not changing.",
+          "choices": [
+            "constant speed",
+            "rest",
+            "acceleration",
+            "negative motion"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-graphs-a-straight-sloped-line-on-a-position-time-graph-means-13",
+          "type": "mc",
+          "questionText": "A straight sloped line on a position–time graph means:",
+          "topic": "Graphs",
+          "hint": "Same slope.",
+          "choices": [
+            "constant velocity",
+            "rest",
+            "changing speed",
+            "acceleration"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-acceleration-a-steeper-slope-means-14",
+          "type": "mc",
+          "questionText": "A steeper slope means:",
+          "topic": "Acceleration",
+          "hint": "Bigger gradient.",
+          "choices": [
+            "smaller speed",
+            "larger speed",
+            "rest",
+            "zero velocity"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-acceleration-acceleration-is-defined-as-15",
+          "type": "mc",
+          "questionText": "Acceleration is defined as:",
+          "topic": "Acceleration",
+          "hint": "Includes direction.",
+          "choices": [
+            "change in distance",
+            "change in speed",
+            "change in velocity",
+            "change in mass"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-acceleration-if-velocity-increases-from-2-m-s-to-6-m-s-in-2-s-acceleratio-16",
+          "type": "numeric",
+          "questionText": "If velocity increases from 2 m/s to 6 m/s in 2 s, acceleration is ___ m/s²",
+          "topic": "Acceleration",
+          "hint": "Change ÷ time.",
+          "answer": 2,
+          "tolerance": 0.1
+        },
+        {
+          "id": "question-newton-s-first-law-if-velocity-decreases-acceleration-is-17",
+          "type": "mc",
+          "questionText": "If velocity decreases, acceleration is:",
+          "topic": "Newton’s First Law",
+          "hint": "Slowing down.",
+          "choices": [
+            "positive",
+            "zero",
+            "negative",
+            "infinite"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-newton-s-first-law-an-object-at-rest-will-remain-at-rest-unless-18",
+          "type": "mc",
+          "questionText": "An object at rest will remain at rest unless:",
+          "topic": "Newton’s First Law",
+          "hint": "Law of inertia.",
+          "choices": [
+            "mass increases",
+            "velocity decreases",
+            "a net force acts",
+            "time passes"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-mass-this-law-is-also-called-19",
+          "type": "mc",
+          "questionText": "This law is also called:",
+          "topic": "Mass",
+          "hint": "Resistance to change.",
+          "choices": [
+            "gravity law",
+            "inertia law",
+            "motion law",
+            "energy law"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-weight-mass-is-measured-in-20",
+          "type": "mc",
+          "questionText": "Mass is measured in:",
+          "topic": "Weight",
+          "hint": "SI unit.",
+          "choices": [
+            "Newton",
+            "kilogram",
+            "meter",
+            "Joule"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-weight-weight-is-measured-in-21",
+          "type": "mc",
+          "questionText": "Weight is measured in:",
+          "topic": "Weight",
+          "hint": "Force unit.",
+          "choices": [
+            "kg",
+            "m",
+            "N",
+            "s"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-weight-weight-depends-on-22",
+          "type": "mc",
+          "questionText": "Weight depends on:",
+          "topic": "Weight",
+          "hint": "Planet matters.",
+          "choices": [
+            "colour",
+            "speed",
+            "gravitational field strength",
+            "time"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-mass-weight-of-a-50-kg-object-on-earth-g-10-is-n-23",
+          "type": "numeric",
+          "questionText": "Weight of a 50 kg object on Earth (g ≈10) is ___ N",
+          "topic": "Mass",
+          "hint": "Multiply.",
+          "answer": 500,
+          "tolerance": 5
+        },
+        {
+          "id": "question-motion-mass-of-an-object-weighing-300-n-on-earth-is-kg-24",
+          "type": "numeric",
+          "questionText": "Mass of an object weighing 300 N on Earth is ___ kg",
+          "topic": "Motion",
+          "hint": "Divide.",
+          "answer": 30,
+          "tolerance": 1
+        },
+        {
+          "id": "question-motion-if-displacement-is-negative-motion-is-25",
+          "type": "mc",
+          "questionText": "If displacement is negative, motion is:",
+          "topic": "Motion",
+          "hint": "Opposite direction.",
+          "choices": [
+            "forward",
+            "backward",
+            "upward",
+            "faster"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-motion-distance-is-always-26",
+          "type": "mc",
+          "questionText": "Distance is always:",
+          "topic": "Motion",
+          "hint": "No direction.",
+          "choices": [
+            "vector",
+            "scalar",
+            "negative",
+            "directional"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-speed-returning-to-the-start-makes-displacement-27",
+          "type": "mc",
+          "questionText": "Returning to the start makes displacement:",
+          "topic": "Speed",
+          "hint": "Same position.",
+          "choices": [
+            "maximum",
+            "zero",
+            "negative",
+            "equal to distance"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-velocity-average-speed-formula-is-28",
+          "type": "mc",
+          "questionText": "Average speed formula is:",
+          "topic": "Velocity",
+          "hint": "Uses total path.",
+          "choices": [
+            "displacement ÷ time",
+            "distance ÷ time",
+            "velocity × time",
+            "mass × g"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-graphs-velocity-can-be-negative-because-29",
+          "type": "mc",
+          "questionText": "Velocity can be negative because:",
+          "topic": "Graphs",
+          "hint": "Reference direction.",
+          "choices": [
+            "mass changes",
+            "direction changes",
+            "time stops",
+            "speed becomes zero"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-position-decreases-with-time-velocity-is-30",
+          "type": "mc",
+          "questionText": "If position decreases with time, velocity is:",
+          "topic": "Chemistry",
+          "hint": "Downward slope.",
+          "choices": [
+            "positive",
+            "zero",
+            "negative",
+            "maximum"
+          ],
+          "correctIndex": 2
         }
       ]
     }
