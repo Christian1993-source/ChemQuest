@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T18:30:58.109Z",
+  "updatedAt": "2026-05-04T18:32:10.122Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -2985,6 +2985,295 @@
             "State of matter only"
           ],
           "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "review-21c69224-cfb8-48ec-943f-1bbb9c2f9f37",
+      "title": "Unit 4: Percent Yield",
+      "topics": [
+        "Chemistry"
+      ],
+      "questions": [
+        {
+          "id": "question-chemistry-percent-yield-compares-the-actual-yield-to-the-1",
+          "type": "mc",
+          "questionText": "Percent yield compares the actual yield to the:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Molar mass",
+            "Theoretical yield",
+            "Reactant color",
+            "Balanced equation only"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-theoretical-yield-means-the-2",
+          "type": "mc",
+          "questionText": "Theoretical yield means the:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Amount actually collected in the lab",
+            "Maximum amount of product predicted by stoichiometry",
+            "Amount lost during the reaction",
+            "Mass of the reactants only"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-actual-yield-means-the-3",
+          "type": "mc",
+          "questionText": "Actual yield means the:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Product amount actually obtained in the lab",
+            "Maximum possible product",
+            "Mole ratio",
+            "Balanced equation"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-the-formula-for-percent-yield-is-4",
+          "type": "mc",
+          "questionText": "The formula for percent yield is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "theoretical yield ÷ actual yield × 100",
+            "actual yield ÷ theoretical yield × 100",
+            "actual yield × theoretical yield",
+            "theoretical yield - actual yield"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-the-actual-yield-is-8-g-and-the-theoretical-yield-is-10-g-5",
+          "type": "mc",
+          "questionText": "If the actual yield is 8 g and the theoretical yield is 10 g, the percent yield is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "20%",
+            "80%",
+            "100%",
+            "125%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-the-actual-yield-is-15-g-and-the-theoretical-yield-is-20--6",
+          "type": "mc",
+          "questionText": "If the actual yield is 15 g and the theoretical yield is 20 g, the percent yield is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-the-actual-yield-is-9-g-and-the-theoretical-yield-is-12-g-7",
+          "type": "mc",
+          "questionText": "If the actual yield is 9 g and the theoretical yield is 12 g, the percent yield is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "25%",
+            "50%",
+            "75%",
+            "90%"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-the-actual-yield-is-5-g-and-the-theoretical-yield-is-10-g-8",
+          "type": "mc",
+          "questionText": "If the actual yield is 5 g and the theoretical yield is 10 g, the percent yield is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "25%",
+            "50%",
+            "100%",
+            "200%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-the-percent-yield-is-100-this-means-9",
+          "type": "mc",
+          "questionText": "If the percent yield is 100%, this means:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "No product was made",
+            "The actual yield equals the theoretical yield",
+            "The product is always impure",
+            "The reaction failed"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-the-percent-yield-is-less-than-100-this-usually-means-10",
+          "type": "mc",
+          "questionText": "If the percent yield is less than 100%, this usually means:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Some product was lost or the reaction was incomplete",
+            "More product was made than possible",
+            "The equation was never balanced",
+            "Atoms disappeared"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-percent-yield-greater-than-100-usually-suggests-11",
+          "type": "mc",
+          "questionText": "A percent yield greater than 100% usually suggests:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "A perfect reaction",
+            "The product may be wet, impure, or measured incorrectly",
+            "No chemical reaction happened",
+            "The reaction had no products"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-to-calculate-theoretical-yield-you-need-12",
+          "type": "mc",
+          "questionText": "To calculate theoretical yield, you need:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "A balanced equation and stoichiometry",
+            "Only the color of the product",
+            "Only the name of the reactant",
+            "Only the room temperature"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-theoretical-yield-is-calculated-before-comparing-it-with-13",
+          "type": "mc",
+          "questionText": "Theoretical yield is calculated before comparing it with:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Atomic number",
+            "Actual yield",
+            "Density",
+            "Boiling point"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-in-a-lab-a-student-expects-25-g-of-product-but-collects-20-g-14",
+          "type": "mc",
+          "questionText": "In a lab, a student expects 25 g of product but collects 20 g. What is the theoretical yield?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "20 g",
+            "25 g",
+            "45 g",
+            "5 g"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-in-a-lab-a-student-expects-25-g-of-product-but-collects-20-g-15",
+          "type": "mc",
+          "questionText": "In a lab, a student expects 25 g of product but collects 20 g. What is the actual yield?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "20 g",
+            "25 g",
+            "45 g",
+            "5 g"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-if-the-theoretical-yield-is-50-g-and-the-actual-yield-is-40--16",
+          "type": "mc",
+          "questionText": "If the theoretical yield is 50 g and the actual yield is 40 g, the percent yield is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "40%",
+            "50%",
+            "80%",
+            "90%"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-if-the-theoretical-yield-is-30-g-and-the-actual-yield-is-15--17",
+          "type": "mc",
+          "questionText": "If the theoretical yield is 30 g and the actual yield is 15 g, the percent yield is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-high-percent-yield-means-the-reaction-was-18",
+          "type": "mc",
+          "questionText": "A high percent yield means the reaction was:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "More efficient",
+            "Less efficient",
+            "Impossible",
+            "Unbalanced"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-low-percent-yield-may-happen-because-19",
+          "type": "mc",
+          "questionText": "A low percent yield may happen because:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Product was lost during filtration or transfer",
+            "More atoms were created",
+            "The product became a reactant",
+            "Coefficients changed by themselves"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-which-result-shows-the-most-efficient-reaction-20",
+          "type": "mc",
+          "questionText": "Which result shows the most efficient reaction?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "25%",
+            "50%",
+            "75%",
+            "95%"
+          ],
+          "correctIndex": 3
         }
       ]
     }
