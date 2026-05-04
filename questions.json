@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T18:27:00.869Z",
+  "updatedAt": "2026-05-04T18:29:06.031Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -2406,6 +2406,295 @@
             "CH₄ + 2O₂ → 2CO₂ + 2H₂O"
           ],
           "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "review-0a7caa58-2af8-4424-b3e5-73c08a57e4cb",
+      "title": "Unit 4: Types of Chemical Reactions",
+      "topics": [
+        "Chemistry"
+      ],
+      "questions": [
+        {
+          "id": "question-chemistry-a-synthesis-reaction-happens-when-1",
+          "type": "mc",
+          "questionText": "A synthesis reaction happens when:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "One compound breaks apart",
+            "Two or more substances combine to form one product",
+            "Oxygen reacts with a hydrocarbon",
+            "Two compounds switch partners"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-pattern-represents-a-synthesis-reaction-2",
+          "type": "mc",
+          "questionText": "Which pattern represents a synthesis reaction?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "AB → A + B",
+            "A + B → AB",
+            "A + BC → AC + B",
+            "AB + CD → AD + CB"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-equation-is-an-example-of-synthesis-3",
+          "type": "mc",
+          "questionText": "Which equation is an example of synthesis?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "2H₂ + O₂ → 2H₂O",
+            "2H₂O → 2H₂ + O₂",
+            "Zn + 2HCl → ZnCl₂ + H₂",
+            "CH₄ + 2O₂ → CO₂ + 2H₂O"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-decomposition-reaction-happens-when-4",
+          "type": "mc",
+          "questionText": "A decomposition reaction happens when:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Two substances combine",
+            "One compound breaks down into simpler substances",
+            "Two compounds exchange ions",
+            "Oxygen is produced only"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-pattern-represents-decomposition-5",
+          "type": "mc",
+          "questionText": "Which pattern represents decomposition?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "A + B → AB",
+            "AB → A + B",
+            "A + BC → AC + B",
+            "AB + CD → AD + CB"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-equation-is-an-example-of-decomposition-6",
+          "type": "mc",
+          "questionText": "Which equation is an example of decomposition?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "2H₂ + O₂ → 2H₂O",
+            "CaCO₃ → CaO + CO₂",
+            "CH₄ + 2O₂ → CO₂ + 2H₂O",
+            "AgNO₃ + NaCl → AgCl + NaNO₃"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-single-replacement-reaction-happens-when-7",
+          "type": "mc",
+          "questionText": "A single replacement reaction happens when:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "One element replaces another element in a compound",
+            "Two elements combine into one compound",
+            "One compound breaks apart",
+            "A hydrocarbon burns in oxygen"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-which-pattern-represents-single-replacement-8",
+          "type": "mc",
+          "questionText": "Which pattern represents single replacement?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "A + B → AB",
+            "AB → A + B",
+            "A + BC → AC + B",
+            "AB + CD → AD + CB"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-which-equation-is-an-example-of-single-replacement-9",
+          "type": "mc",
+          "questionText": "Which equation is an example of single replacement?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Zn + 2HCl → ZnCl₂ + H₂",
+            "2H₂ + O₂ → 2H₂O",
+            "CaCO₃ → CaO + CO₂",
+            "NaCl + AgNO₃ → AgCl + NaNO₃"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-double-replacement-reaction-happens-when-10",
+          "type": "mc",
+          "questionText": "A double replacement reaction happens when:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "One element replaces another element",
+            "Two compounds exchange ions or partners",
+            "Oxygen combines with a hydrocarbon",
+            "One compound breaks apart"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-pattern-represents-double-replacement-11",
+          "type": "mc",
+          "questionText": "Which pattern represents double replacement?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "A + B → AB",
+            "AB → A + B",
+            "A + BC → AC + B",
+            "AB + CD → AD + CB"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-chemistry-which-equation-is-an-example-of-double-replacement-12",
+          "type": "mc",
+          "questionText": "Which equation is an example of double replacement?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "AgNO₃ + NaCl → AgCl + NaNO₃",
+            "2Mg + O₂ → 2MgO",
+            "2KClO₃ → 2KCl + 3O₂",
+            "CH₄ + 2O₂ → CO₂ + 2H₂O"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-combustion-usually-involves-a-substance-reacting-with-13",
+          "type": "mc",
+          "questionText": "Combustion usually involves a substance reacting with:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Oxygen",
+            "Sodium",
+            "Water",
+            "Nitrogen"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-the-complete-combustion-of-a-hydrocarbon-produces-14",
+          "type": "mc",
+          "questionText": "The complete combustion of a hydrocarbon produces:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "CO₂ and H₂O",
+            "NaCl and H₂",
+            "O₂ and H₂",
+            "CaO and CO₂"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-which-pattern-best-represents-complete-combustion-of-a-hydro-15",
+          "type": "mc",
+          "questionText": "Which pattern best represents complete combustion of a hydrocarbon?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Hydrocarbon + O₂ → CO₂ + H₂O",
+            "A + B → AB",
+            "AB → A + B",
+            "AB + CD → AD + CB"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-which-equation-is-an-example-of-combustion-16",
+          "type": "mc",
+          "questionText": "Which equation is an example of combustion?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "CH₄ + 2O₂ → CO₂ + 2H₂O",
+            "2H₂O → 2H₂ + O₂",
+            "Zn + 2HCl → ZnCl₂ + H₂",
+            "NaCl + AgNO₃ → AgCl + NaNO₃"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-type-of-reaction-is-2na-cl-2nacl-17",
+          "type": "mc",
+          "questionText": "What type of reaction is 2Na + Cl₂ → 2NaCl?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Synthesis",
+            "Decomposition",
+            "Double replacement",
+            "Combustion"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-what-type-of-reaction-is-2h-o-2h-o-18",
+          "type": "mc",
+          "questionText": "What type of reaction is 2H₂O → 2H₂ + O₂?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Synthesis",
+            "Decomposition",
+            "Single replacement",
+            "Double replacement"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-type-of-reaction-is-fe-cuso-feso-cu-19",
+          "type": "mc",
+          "questionText": "What type of reaction is Fe + CuSO₄ → FeSO₄ + Cu?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Synthesis",
+            "Decomposition",
+            "Single replacement",
+            "Combustion"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-what-type-of-reaction-is-bacl-na-so-baso-2nacl-20",
+          "type": "mc",
+          "questionText": "What type of reaction is BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Synthesis",
+            "Decomposition",
+            "Single replacement",
+            "Double replacement"
+          ],
+          "correctIndex": 3
         }
       ]
     }
