@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T19:07:26.913Z",
+  "updatedAt": "2026-05-04T20:42:06.581Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -3982,6 +3982,645 @@
             "Less efficient",
             "Impossible",
             "Unbalanced"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "review-e05ab9d8-184e-4fa8-add7-46301645c275",
+      "title": "Physics - Simple Machines Review",
+      "topics": [
+        "Chemistry"
+      ],
+      "questions": [
+        {
+          "id": "question-chemistry-a-simple-machine-is-a-device-that-1",
+          "type": "mc",
+          "questionText": "A simple machine is a device that:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Makes work easier",
+            "Creates energy",
+            "Removes gravity",
+            "Stops all motion"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-the-six-simple-machines-are-2",
+          "type": "mc",
+          "questionText": "The six simple machines are:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Lever, pulley, wheel and axle, inclined plane, wedge, screw",
+            "Battery, wire, bulb, switch, resistor, motor",
+            "Magnet, compass, spring, scale, circuit, bulb",
+            "Force, mass, acceleration, velocity, energy, power"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-lever-works-by-rotating-around-a-fixed-point-called-the-3",
+          "type": "mc",
+          "questionText": "A lever works by rotating around a fixed point called the:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Load",
+            "Fulcrum",
+            "Effort",
+            "Resistance"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-in-a-lever-the-object-being-moved-is-called-the-4",
+          "type": "mc",
+          "questionText": "In a lever, the object being moved is called the:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Load",
+            "Fulcrum",
+            "Wheel",
+            "Screw"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-the-force-applied-to-a-simple-machine-is-called-5",
+          "type": "mc",
+          "questionText": "The force applied to a simple machine is called:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Output force",
+            "Friction",
+            "Effort force",
+            "Gravity only"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-which-simple-machine-is-used-in-a-seesaw-6",
+          "type": "mc",
+          "questionText": "Which simple machine is used in a seesaw?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Pulley",
+            "Wedge",
+            "Lever",
+            "Screw"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-a-first-class-lever-has-the-7",
+          "type": "mc",
+          "questionText": "A first-class lever has the:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Load between the fulcrum and effort",
+            "Fulcrum between the effort and load",
+            "Effort between the fulcrum and load",
+            "Wheel between the effort and load"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-is-an-example-of-a-first-class-lever-8",
+          "type": "mc",
+          "questionText": "Which is an example of a first-class lever?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Seesaw",
+            "Wheelbarrow",
+            "Tweezers",
+            "Ramp"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-second-class-lever-has-the-9",
+          "type": "mc",
+          "questionText": "A second-class lever has the:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Load between the fulcrum and effort",
+            "Effort between the fulcrum and load",
+            "Fulcrum between the effort and load",
+            "Screw between the fulcrum and load"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-which-is-an-example-of-a-second-class-lever-10",
+          "type": "mc",
+          "questionText": "Which is an example of a second-class lever?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Scissors",
+            "Wheelbarrow",
+            "Tweezers",
+            "Fishing rod"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-third-class-lever-has-the-11",
+          "type": "mc",
+          "questionText": "A third-class lever has the:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Fulcrum between the effort and load",
+            "Load between the fulcrum and effort",
+            "Effort between the fulcrum and load",
+            "Wheel between the load and effort"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-which-is-an-example-of-a-third-class-lever-12",
+          "type": "mc",
+          "questionText": "Which is an example of a third-class lever?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Bottle opener",
+            "Wheelbarrow",
+            "Tweezers",
+            "Ramp"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-an-inclined-plane-is-13",
+          "type": "mc",
+          "questionText": "An inclined plane is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "A flat surface tilted at an angle",
+            "A wheel with a rope",
+            "A sharp object that splits materials",
+            "A rod that rotates around a point"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-which-is-an-example-of-an-inclined-plane-14",
+          "type": "mc",
+          "questionText": "Which is an example of an inclined plane?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Ramp",
+            "Pulley",
+            "Door knob",
+            "Knife"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-an-inclined-plane-makes-work-easier-by-15",
+          "type": "mc",
+          "questionText": "An inclined plane makes work easier by:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Increasing the distance over which force is applied",
+            "Removing the need for force",
+            "Increasing gravity",
+            "Making the object lighter"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-wedge-is-a-simple-machine-used-to-16",
+          "type": "mc",
+          "questionText": "A wedge is a simple machine used to:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Lift objects with a rope",
+            "Split, cut, or separate materials",
+            "Rotate around an axle",
+            "Reduce distance only"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-which-is-an-example-of-a-wedge-17",
+          "type": "mc",
+          "questionText": "Which is an example of a wedge?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Knife",
+            "Flagpole",
+            "Bicycle wheel",
+            "Door knob"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-screw-is-basically-18",
+          "type": "mc",
+          "questionText": "A screw is basically:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "An inclined plane wrapped around a cylinder",
+            "A wheel with a rope",
+            "A lever with two fulcrums",
+            "A wedge without force"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-which-is-an-example-of-a-screw-19",
+          "type": "mc",
+          "questionText": "Which is an example of a screw?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Ramp",
+            "Bolt",
+            "Seesaw",
+            "Pulley"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-pulley-uses-a-wheel-and-rope-to-20",
+          "type": "mc",
+          "questionText": "A pulley uses a wheel and rope to:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Change the direction of a force",
+            "Increase mass",
+            "Remove friction completely",
+            "Create energy"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-which-is-an-example-of-a-pulley-21",
+          "type": "mc",
+          "questionText": "Which is an example of a pulley?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Flagpole system",
+            "Knife",
+            "Ramp",
+            "Screwdriver handle"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-wheel-and-axle-helps-by-22",
+          "type": "mc",
+          "questionText": "A wheel and axle helps by:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Making rotation easier",
+            "Splitting objects",
+            "Increasing gravity",
+            "Removing mass"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-which-is-an-example-of-a-wheel-and-axle-23",
+          "type": "mc",
+          "questionText": "Which is an example of a wheel and axle?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Bicycle wheel",
+            "Knife",
+            "Ramp",
+            "Screw"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-mechanical-advantage-means-24",
+          "type": "mc",
+          "questionText": "Mechanical advantage means:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "How much a machine multiplies force",
+            "How much energy is created",
+            "How much mass disappears",
+            "How much gravity increases"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-machine-with-a-greater-mechanical-advantage-25",
+          "type": "mc",
+          "questionText": "A machine with a greater mechanical advantage:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Requires more effort force",
+            "Multiplies force more",
+            "Removes the load",
+            "Stops motion"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-mechanical-advantage-can-be-calculated-as-26",
+          "type": "mc",
+          "questionText": "Mechanical advantage can be calculated as:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Output force ÷ input force",
+            "Input force ÷ output force",
+            "Work ÷ time",
+            "Mass × acceleration"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-if-output-force-is-100-n-and-input-force-is-50-n-the-mechani-27",
+          "type": "mc",
+          "questionText": "If output force is 100 N and input force is 50 N, the mechanical advantage is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "1",
+            "2",
+            "50",
+            "150"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-if-a-machine-has-a-mechanical-advantage-of-3-it-means-28",
+          "type": "mc",
+          "questionText": "If a machine has a mechanical advantage of 3, it means:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "The machine triples the input force",
+            "The machine creates energy",
+            "The machine removes friction",
+            "The machine has no load"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-work-is-calculated-using-29",
+          "type": "mc",
+          "questionText": "Work is calculated using:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Work = force × distance",
+            "Work = mass × velocity",
+            "Work = force ÷ distance",
+            "Work = power × mass"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-the-si-unit-of-work-is-the-30",
+          "type": "mc",
+          "questionText": "The SI unit of work is the:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Newton",
+            "Joule",
+            "Watt",
+            "Kilogram"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-a-simple-machine-does-not-create-31",
+          "type": "mc",
+          "questionText": "A simple machine does not create:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Energy",
+            "Distance",
+            "Motion",
+            "Force direction"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-simple-machines-make-work-easier-by-changing-32",
+          "type": "mc",
+          "questionText": "Simple machines make work easier by changing:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Force, distance, or direction",
+            "Mass only",
+            "Temperature only",
+            "Color only"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-in-an-ideal-machine-input-work-is-33",
+          "type": "mc",
+          "questionText": "In an ideal machine, input work is:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Equal to output work",
+            "Less than zero",
+            "Always greater than energy",
+            "Not related to output work"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-real-machines-are-not-100-efficient-because-of-34",
+          "type": "mc",
+          "questionText": "Real machines are not 100% efficient because of:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Friction",
+            "Gravity disappearing",
+            "Energy being created",
+            "Mass changing into force"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-efficiency-tells-us-35",
+          "type": "mc",
+          "questionText": "Efficiency tells us:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "How much input work becomes useful output work",
+            "How much mass disappears",
+            "How much force is destroyed",
+            "How much gravity changes"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-efficiency-is-calculated-as-36",
+          "type": "mc",
+          "questionText": "Efficiency is calculated as:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Useful output work ÷ input work × 100",
+            "Input work ÷ output work × 100",
+            "Force × distance",
+            "Mass × acceleration"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-ramp-allows-you-to-use-37",
+          "type": "mc",
+          "questionText": "A ramp allows you to use:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Less force over a longer distance",
+            "More force over a shorter distance only",
+            "No force at all",
+            "No distance"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-pulley-on-a-flagpole-mainly-changes-38",
+          "type": "mc",
+          "questionText": "A pulley on a flagpole mainly changes:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "The direction of the force",
+            "The mass of the flag",
+            "The weight of the rope",
+            "The shape of the flag"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-knife-is-considered-a-wedge-because-it-39",
+          "type": "mc",
+          "questionText": "A knife is considered a wedge because it:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Cuts by separating material",
+            "Rotates around an axle",
+            "Uses a rope",
+            "Wraps around a cylinder"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-door-knob-is-an-example-of-40",
+          "type": "mc",
+          "questionText": "A door knob is an example of:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Wheel and axle",
+            "Inclined plane",
+            "Wedge",
+            "Pulley"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-staircase-is-most-similar-to-41",
+          "type": "mc",
+          "questionText": "A staircase is most similar to:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Inclined plane",
+            "Pulley",
+            "Wheel and axle",
+            "Screw"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-screwdriver-handle-works-like-42",
+          "type": "mc",
+          "questionText": "A screwdriver handle works like:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Wheel and axle",
+            "Wedge",
+            "Ramp",
+            "Pulley"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-nail-is-most-similar-to-43",
+          "type": "mc",
+          "questionText": "A nail is most similar to:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Wedge",
+            "Pulley",
+            "Wheel and axle",
+            "Lever"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-a-fishing-rod-is-an-example-of-44",
+          "type": "mc",
+          "questionText": "A fishing rod is an example of:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Third-class lever",
+            "Second-class lever",
+            "First-class lever",
+            "Inclined plane"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-chemistry-the-main-purpose-of-simple-machines-is-to-45",
+          "type": "mc",
+          "questionText": "The main purpose of simple machines is to:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Make work easier",
+            "Create matter",
+            "Destroy energy",
+            "Remove all friction"
           ],
           "correctIndex": 0
         }
