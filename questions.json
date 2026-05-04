@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T22:33:26.241Z",
+  "updatedAt": "2026-05-04T18:27:00.869Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -2146,6 +2146,266 @@
             "C₃H₃"
           ],
           "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "review-05246152-edbc-4280-ac7b-edf8450c24ba",
+      "title": "Unit 4: Balancing Chemical Equations",
+      "topics": [
+        "Chemistry",
+        "Stoichiometry"
+      ],
+      "questions": [
+        {
+          "id": "question-chemistry-what-law-is-followed-when-balancing-chemical-equations-1",
+          "type": "mc",
+          "questionText": "What law is followed when balancing chemical equations?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Law of gravity",
+            "Law of conservation of mass",
+            "Law of energy",
+            "Law of motion"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-in-a-balanced-chemical-equation-the-number-of-atoms-of-each--2",
+          "type": "mc",
+          "questionText": "In a balanced chemical equation, the number of atoms of each element is:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "Greater on the reactants side",
+            "Greater on the products side",
+            "Equal on both sides",
+            "Always odd"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-to-balance-a-chemical-equation-you-should-change-the-3",
+          "type": "mc",
+          "questionText": "To balance a chemical equation, you should change the:",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "Subscripts",
+            "Coefficients",
+            "Element symbols",
+            "Charges"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-why-should-subscripts-not-be-changed-when-balancing-equation-4",
+          "type": "mc",
+          "questionText": "Why should subscripts not be changed when balancing equations?",
+          "topic": "Chemistry",
+          "hint": "Look for the main chemistry idea in the question stem.",
+          "choices": [
+            "They show the temperature",
+            "They change the identity of the compound",
+            "They show the state of matter",
+            "They are always equal to coefficients"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-which-equation-is-correctly-balanced-5",
+          "type": "mc",
+          "questionText": "Which equation is correctly balanced?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "H₂ + O₂ → H₂O",
+            "2H₂ + O₂ → 2H₂O",
+            "H₂ + 2O₂ → 2H₂O",
+            "2H₂ + 2O₂ → 2H₂O"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-which-equation-is-correctly-balanced-6",
+          "type": "mc",
+          "questionText": "Which equation is correctly balanced?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "N₂ + H₂ → NH₃",
+            "N₂ + 2H₂ → 2NH₃",
+            "N₂ + 3H₂ → 2NH₃",
+            "2N₂ + 3H₂ → 2NH₃"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-what-is-the-coefficient-of-o-in-the-balanced-equation-2mg-o--7",
+          "type": "numeric",
+          "questionText": "What is the coefficient of O₂ in the balanced equation 2Mg + O₂ → 2MgO?",
+          "topic": "Stoichiometry",
+          "hint": "Look at the number in front of O₂.",
+          "answer": 1,
+          "tolerance": 0
+        },
+        {
+          "id": "question-stoichiometry-what-is-the-coefficient-of-h-o-in-the-balanced-equation-2h-o-8",
+          "type": "numeric",
+          "questionText": "What is the coefficient of H₂O in the balanced equation 2H₂ + O₂ → 2H₂O?",
+          "topic": "Stoichiometry",
+          "hint": "Look at the number in front of H₂O.",
+          "answer": 2,
+          "tolerance": 0
+        },
+        {
+          "id": "question-stoichiometry-how-many-oxygen-atoms-are-on-each-side-of-the-balanced-equat-9",
+          "type": "numeric",
+          "questionText": "How many oxygen atoms are on each side of the balanced equation 2H₂ + O₂ → 2H₂O?",
+          "topic": "Stoichiometry",
+          "hint": "Count the O atoms on both sides.",
+          "answer": 2,
+          "tolerance": 0
+        },
+        {
+          "id": "question-stoichiometry-in-the-equation-4fe-3o-2fe-o-the-coefficient-of-fe-is-10",
+          "type": "mc",
+          "questionText": "In the equation 4Fe + 3O₂ → 2Fe₂O₃, the coefficient of Fe is:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-stoichiometry-in-the-equation-4fe-3o-2fe-o-the-coefficient-of-o-is-11",
+          "type": "mc",
+          "questionText": "In the equation 4Fe + 3O₂ → 2Fe₂O₃, the coefficient of O₂ is:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-which-statement-best-describes-conservation-of-mass-in-a-che-12",
+          "type": "mc",
+          "questionText": "Which statement best describes conservation of mass in a chemical reaction?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "Atoms disappear during a reaction",
+            "New atoms are created during a reaction",
+            "The total number of each kind of atom stays the same",
+            "The mass of products is always smaller"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-stoichiometry-what-is-the-coefficient-of-al-in-the-balanced-equation-4al-3-13",
+          "type": "numeric",
+          "questionText": "What is the coefficient of Al in the balanced equation 4Al + 3O₂ → 2Al₂O₃?",
+          "topic": "Stoichiometry",
+          "hint": "Count the number in front of Al.",
+          "answer": 4,
+          "tolerance": 0
+        },
+        {
+          "id": "question-stoichiometry-what-is-the-coefficient-of-o-in-the-balanced-equation-4al-3o-14",
+          "type": "numeric",
+          "questionText": "What is the coefficient of O₂ in the balanced equation 4Al + 3O₂ → 2Al₂O₃?",
+          "topic": "Stoichiometry",
+          "hint": "Count the number in front of O₂.",
+          "answer": 3,
+          "tolerance": 0
+        },
+        {
+          "id": "question-stoichiometry-which-equation-is-correctly-balanced-15",
+          "type": "mc",
+          "questionText": "Which equation is correctly balanced?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "Na + Cl₂ → NaCl",
+            "2Na + Cl₂ → 2NaCl",
+            "2Na + 2Cl₂ → 2NaCl",
+            "Na + Cl → NaCl"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-which-equation-is-correctly-balanced-16",
+          "type": "mc",
+          "questionText": "Which equation is correctly balanced?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CaCO₃ → CaO + CO₂",
+            "CaCO₃ → Ca + CO₃",
+            "2CaCO₃ → CaO + CO₂",
+            "CaCO₃ → 2CaO + CO₂"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-stoichiometry-if-an-equation-has-3-carbon-atoms-in-the-reactants-how-many--17",
+          "type": "numeric",
+          "questionText": "If an equation has 3 carbon atoms in the reactants, how many carbon atoms must be in the products of a balanced equation?",
+          "topic": "Stoichiometry",
+          "hint": "Balanced equations must have the same number of atoms on both sides.",
+          "answer": 3,
+          "tolerance": 0
+        },
+        {
+          "id": "question-stoichiometry-coefficients-in-a-chemical-equation-represent-the-number-of-18",
+          "type": "mc",
+          "questionText": "Coefficients in a chemical equation represent the number of:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "Protons",
+            "Molecules or moles",
+            "Elements",
+            "Subscripts"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-the-balanced-equation-for-the-formation-of-water-uses-19",
+          "type": "mc",
+          "questionText": "The balanced equation for the formation of water uses:",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "H₂ + O₂",
+            "2H₂ + O₂",
+            "H₂ + 2O₂",
+            "2H₂ + 2O₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-which-equation-is-correctly-balanced-20",
+          "type": "mc",
+          "questionText": "Which equation is correctly balanced?",
+          "topic": "Stoichiometry",
+          "hint": "Track formulas, ratios, and total mass carefully.",
+          "choices": [
+            "CH₄ + O₂ → CO₂ + H₂O",
+            "CH₄ + 2O₂ → CO₂ + 2H₂O",
+            "2CH₄ + O₂ → CO₂ + 2H₂O",
+            "CH₄ + 2O₂ → 2CO₂ + 2H₂O"
+          ],
+          "correctIndex": 1
         }
       ]
     }
