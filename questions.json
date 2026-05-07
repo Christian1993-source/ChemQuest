@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T18:15:30.353Z",
+  "updatedAt": "2026-05-07T18:23:19.449Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -3489,6 +3489,296 @@
             "No reactant is limiting"
           ],
           "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "review-d12e654d-fb62-48ef-819e-283aea28e3ee",
+      "title": "Limiting Reactants",
+      "topics": [
+        "Limiting Reactants",
+        "Chemistry"
+      ],
+      "questions": [
+        {
+          "id": "question-limiting-reactants-what-mass-of-calcium-hydroxide-is-formed-when-5-60-g-of-calc-1",
+          "type": "mc",
+          "questionText": "What mass of calcium hydroxide is formed when 5.60 g of calcium oxide reacts with 3.60 g of water? CaO + H₂O → Ca(OH)₂",
+          "topic": "Limiting Reactants",
+          "hint": "Convert both reactants to moles and identify which reactant runs out first.",
+          "choices": [
+            "3.70 g Ca(OH)₂",
+            "7.40 g Ca(OH)₂",
+            "10.0 g Ca(OH)₂",
+            "14.8 g Ca(OH)₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-sodium-chloride-is-formed-when-4-60-g-of-sodium-2",
+          "type": "mc",
+          "questionText": "What mass of sodium chloride is formed when 4.60 g of sodium reacts with 3.55 g of chlorine? 2Na + Cl₂ → 2NaCl",
+          "topic": "Limiting Reactants",
+          "hint": "Chlorine gas is Cl₂. Use the mole ratio 1 mol Cl₂ : 2 mol NaCl.",
+          "choices": [
+            "5.85 g NaCl",
+            "7.10 g NaCl",
+            "11.7 g NaCl",
+            "23.0 g NaCl"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-magnesium-chloride-is-formed-when-2-40-g-of-mag-3",
+          "type": "mc",
+          "questionText": "What mass of magnesium chloride is formed when 2.40 g of magnesium reacts with 3.65 g of hydrochloric acid? Mg + 2HCl → MgCl₂ + H₂",
+          "topic": "Limiting Reactants",
+          "hint": "The reaction needs 2 mol HCl for every 1 mol Mg.",
+          "choices": [
+            "2.40 g MgCl₂",
+            "3.65 g MgCl₂",
+            "4.75 g MgCl₂",
+            "9.50 g MgCl₂"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-ammonia-is-formed-when-14-0-g-of-nitrogen-react-4",
+          "type": "mc",
+          "questionText": "What mass of ammonia is formed when 14.0 g of nitrogen reacts with 2.00 g of hydrogen? N₂ + 3H₂ → 2NH₃",
+          "topic": "Limiting Reactants",
+          "hint": "Hydrogen is the limiting reactant if there is not enough H₂ for the nitrogen.",
+          "choices": [
+            "5.67 g NH₃",
+            "8.50 g NH₃",
+            "17.0 g NH₃",
+            "11.3 g NH₃"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-water-is-formed-when-4-00-g-of-hydrogen-reacts--5",
+          "type": "mc",
+          "questionText": "What mass of water is formed when 4.00 g of hydrogen reacts with 16.0 g of oxygen? 2H₂ + O₂ → 2H₂O",
+          "topic": "Limiting Reactants",
+          "hint": "1 mol O₂ produces 2 mol H₂O.",
+          "choices": [
+            "9.00 g H₂O",
+            "18.0 g H₂O",
+            "36.0 g H₂O",
+            "20.0 g H₂O"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-carbon-dioxide-is-formed-when-6-00-g-of-carbon--6",
+          "type": "mc",
+          "questionText": "What mass of carbon dioxide is formed when 6.00 g of carbon reacts with 32.0 g of oxygen? C + O₂ → CO₂",
+          "topic": "Limiting Reactants",
+          "hint": "The mole ratio C:CO₂ is 1:1.",
+          "choices": [
+            "22.0 g CO₂",
+            "32.0 g CO₂",
+            "44.0 g CO₂",
+            "66.0 g CO₂"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-potassium-chloride-is-formed-when-7-80-g-of-pot-7",
+          "type": "mc",
+          "questionText": "What mass of potassium chloride is formed when 7.80 g of potassium reacts with 3.55 g of chlorine? 2K + Cl₂ → 2KCl",
+          "topic": "Limiting Reactants",
+          "hint": "1 mol Cl₂ produces 2 mol KCl.",
+          "choices": [
+            "3.73 g KCl",
+            "5.00 g KCl",
+            "7.45 g KCl",
+            "14.9 g KCl"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-zinc-chloride-is-formed-when-6-50-g-of-zinc-rea-8",
+          "type": "mc",
+          "questionText": "What mass of zinc chloride is formed when 6.50 g of zinc reacts with 3.65 g of hydrochloric acid? Zn + 2HCl → ZnCl₂ + H₂",
+          "topic": "Limiting Reactants",
+          "hint": "2 mol HCl are needed to make 1 mol ZnCl₂.",
+          "choices": [
+            "3.40 g ZnCl₂",
+            "5.20 g ZnCl₂",
+            "13.6 g ZnCl₂",
+            "6.80 g ZnCl₂"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-aluminum-chloride-is-formed-when-5-40-g-of-alum-9",
+          "type": "mc",
+          "questionText": "What mass of aluminum chloride is formed when 5.40 g of aluminum reacts with 10.65 g of chlorine? 2Al + 3Cl₂ → 2AlCl₃",
+          "topic": "Limiting Reactants",
+          "hint": "Use the mole ratio 3 mol Cl₂ : 2 mol AlCl₃.",
+          "choices": [
+            "6.68 g AlCl₃",
+            "13.35 g AlCl₃",
+            "26.7 g AlCl₃",
+            "40.1 g AlCl₃"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-iron-is-formed-when-16-0-g-of-iron-iii-oxide-re-10",
+          "type": "mc",
+          "questionText": "What mass of iron is formed when 16.0 g of iron(III) oxide reacts with 5.60 g of carbon monoxide? Fe₂O₃ + 3CO → 2Fe + 3CO₂",
+          "topic": "Limiting Reactants",
+          "hint": "Carbon monoxide limits the amount of iron formed.",
+          "choices": [
+            "5.60 g Fe",
+            "6.40 g Fe",
+            "7.47 g Fe",
+            "11.2 g Fe"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-carbon-dioxide-is-formed-when-5-60-g-of-carbon--11",
+          "type": "mc",
+          "questionText": "What mass of carbon dioxide is formed when 5.60 g of carbon monoxide reacts with 1.60 g of oxygen? 2CO + O₂ → 2CO₂",
+          "topic": "Limiting Reactants",
+          "hint": "1 mol O₂ produces 2 mol CO₂.",
+          "choices": [
+            "2.20 g CO₂",
+            "3.20 g CO₂",
+            "5.60 g CO₂",
+            "4.40 g CO₂"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-sulfur-dioxide-is-formed-when-6-40-g-of-sulfur--12",
+          "type": "mc",
+          "questionText": "What mass of sulfur dioxide is formed when 6.40 g of sulfur reacts with 3.20 g of oxygen? S + O₂ → SO₂",
+          "topic": "Limiting Reactants",
+          "hint": "The mole ratio O₂:SO₂ is 1:1.",
+          "choices": [
+            "6.40 g SO₂",
+            "12.8 g SO₂",
+            "3.20 g SO₂",
+            "9.60 g SO₂"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-lithium-fluoride-is-formed-when-1-40-g-of-lithi-13",
+          "type": "mc",
+          "questionText": "What mass of lithium fluoride is formed when 1.40 g of lithium reacts with 1.90 g of fluorine? 2Li + F₂ → 2LiF",
+          "topic": "Limiting Reactants",
+          "hint": "1 mol F₂ produces 2 mol LiF.",
+          "choices": [
+            "1.30 g LiF",
+            "1.90 g LiF",
+            "2.60 g LiF",
+            "5.20 g LiF"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-magnesium-oxide-is-formed-when-4-80-g-of-magnes-14",
+          "type": "mc",
+          "questionText": "What mass of magnesium oxide is formed when 4.80 g of magnesium reacts with 1.60 g of oxygen? 2Mg + O₂ → 2MgO",
+          "topic": "Limiting Reactants",
+          "hint": "Oxygen is the limiting reactant.",
+          "choices": [
+            "2.00 g MgO",
+            "3.20 g MgO",
+            "8.00 g MgO",
+            "4.00 g MgO"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-calcium-chloride-is-formed-when-4-00-g-of-calci-15",
+          "type": "mc",
+          "questionText": "What mass of calcium chloride is formed when 4.00 g of calcium reacts with 3.55 g of chlorine? Ca + Cl₂ → CaCl₂",
+          "topic": "Limiting Reactants",
+          "hint": "The mole ratio Ca:Cl₂:CaCl₂ is 1:1:1.",
+          "choices": [
+            "3.55 g CaCl₂",
+            "5.55 g CaCl₂",
+            "11.1 g CaCl₂",
+            "7.10 g CaCl₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-iron-iii-oxide-is-formed-when-22-4-g-of-iron-re-16",
+          "type": "mc",
+          "questionText": "What mass of iron(III) oxide is formed when 22.4 g of iron reacts with 9.60 g of oxygen? 4Fe + 3O₂ → 2Fe₂O₃",
+          "topic": "Limiting Reactants",
+          "hint": "These reactants are in the exact stoichiometric ratio.",
+          "choices": [
+            "32.0 g Fe₂O₃",
+            "16.0 g Fe₂O₃",
+            "64.0 g Fe₂O₃",
+            "22.4 g Fe₂O₃"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-sodium-fluoride-is-formed-when-2-30-g-of-sodium-17",
+          "type": "mc",
+          "questionText": "What mass of sodium fluoride is formed when 2.30 g of sodium reacts with 3.80 g of fluorine? 2Na + F₂ → 2NaF",
+          "topic": "Limiting Reactants",
+          "hint": "Sodium is the limiting reactant.",
+          "choices": [
+            "2.10 g NaF",
+            "3.80 g NaF",
+            "4.20 g NaF",
+            "8.40 g NaF"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-copper-is-formed-when-8-00-g-of-copper-ii-oxide-18",
+          "type": "mc",
+          "questionText": "What mass of copper is formed when 8.00 g of copper(II) oxide reacts with 0.100 g of hydrogen? CuO + H₂ → Cu + H₂O",
+          "topic": "Limiting Reactants",
+          "hint": "Hydrogen limits the amount of copper produced.",
+          "choices": [
+            "1.60 g Cu",
+            "2.00 g Cu",
+            "6.40 g Cu",
+            "3.20 g Cu"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-limiting-reactants-what-mass-of-magnesium-bromide-is-formed-when-2-40-g-of-magn-19",
+          "type": "mc",
+          "questionText": "What mass of magnesium bromide is formed when 2.40 g of magnesium reacts with 8.00 g of bromine? Mg + Br₂ → MgBr₂",
+          "topic": "Limiting Reactants",
+          "hint": "Bromine is the limiting reactant.",
+          "choices": [
+            "4.60 g MgBr₂",
+            "9.20 g MgBr₂",
+            "18.4 g MgBr₂",
+            "2.40 g MgBr₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemistry-what-mass-of-calcium-hydroxide-is-formed-when-11-2-g-of-calc-20",
+          "type": "mc",
+          "questionText": "What mass of calcium hydroxide is formed when 11.2 g of calcium oxide reacts with 1.80 g of water? CaO + H₂O → Ca(OH)₂",
+          "topic": "Chemistry",
+          "hint": "Water is the limiting reactant.",
+          "choices": [
+            "7.40 g Ca(OH)₂",
+            "14.8 g Ca(OH)₂",
+            "3.70 g Ca(OH)₂",
+            "11.2 g Ca(OH)₂"
+          ],
+          "correctIndex": 0
         }
       ]
     }
