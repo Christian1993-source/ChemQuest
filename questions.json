@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T18:11:59.180Z",
+  "updatedAt": "2026-05-07T18:15:13.289Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -3274,6 +3274,221 @@
             "95%"
           ],
           "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "id": "review-f0e7d540-10c2-49b5-9036-38f77af785e6",
+      "title": "Stoichiometry Unit Exam Review",
+      "topics": [
+        "Hydrocarbons",
+        "Coefficients and Mole Ratios",
+        "Balanced Equations",
+        "Percent Yield",
+        "Synthesis Reactions",
+        "Single Replacement Reactions",
+        "Combustion Reactions",
+        "States of Matter",
+        "Mole-to-Mole Conversions",
+        "Mass-to-Mass Conversions",
+        "Chemistry"
+      ],
+      "questions": [
+        {
+          "id": "question-hydrocarbons-which-equation-shows-a-decomposition-reaction-1",
+          "type": "mc",
+          "questionText": "Which equation shows a decomposition reaction?",
+          "topic": "Hydrocarbons",
+          "hint": "Decomposition means one compound breaks into simpler substances.",
+          "choices": [
+            "2Na + Cl₂ → 2NaCl",
+            "CaCO₃ → CaO + CO₂",
+            "Zn + 2HCl → ZnCl₂ + H₂",
+            "CH₄ + 2O₂ → CO₂ + 2H₂O"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-coefficients-and-mole-ratios-a-hydrocarbon-is-a-compound-made-only-of-2",
+          "type": "mc",
+          "questionText": "A hydrocarbon is a compound made only of:",
+          "topic": "Coefficients and Mole Ratios",
+          "hint": "The word hydrocarbon contains clues: hydro = hydrogen, carbon = carbon.",
+          "choices": [
+            "Hydrogen and oxygen",
+            "Carbon and oxygen",
+            "Carbon and hydrogen",
+            "Sodium and chlorine"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-balanced-equations-in-the-balanced-equation-below-what-do-the-coefficients-repr-3",
+          "type": "mc",
+          "questionText": "In the balanced equation below, what do the coefficients represent? 4Al + 3O₂ → 2Al₂O₃",
+          "topic": "Balanced Equations",
+          "hint": "Coefficients can represent molecules, formula units, or moles.",
+          "choices": [
+            "Grams only",
+            "Charges of each compound",
+            "Number of atoms inside one molecule",
+            "Relative number of particles or moles"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-percent-yield-which-statement-correctly-explains-a-balanced-chemical-equat-4",
+          "type": "mc",
+          "questionText": "Which statement correctly explains a balanced chemical equation?",
+          "topic": "Percent Yield",
+          "hint": "A balanced equation keeps the same number of each atom on both sides.",
+          "choices": [
+            "Coefficients can show mole ratios between substances",
+            "Subscripts can be changed to balance the equation",
+            "Coefficients always represent grams",
+            "Products must always have fewer atoms than reactants"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-synthesis-reactions-a-student-wants-to-know-how-successful-a-reaction-was-compar-5",
+          "type": "mc",
+          "questionText": "A student wants to know how successful a reaction was compared to the expected amount of product. Which value should the student calculate?",
+          "topic": "Synthesis Reactions",
+          "hint": "Percent yield compares actual yield to theoretical yield.",
+          "choices": [
+            "Percent yield",
+            "Atomic number",
+            "Molar mass only",
+            "Density"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-single-replacement-reactions-which-balanced-equation-represents-a-synthesis-reaction-betw-6",
+          "type": "mc",
+          "questionText": "Which balanced equation represents a synthesis reaction between aluminum and chlorine gas?",
+          "topic": "Single Replacement Reactions",
+          "hint": "Synthesis follows the pattern A + B → AB.",
+          "choices": [
+            "AlCl₃ → Al + Cl₂",
+            "Al + Cl₂ → AlCl₃",
+            "2Al + 3Cl₂ → 2AlCl₃",
+            "3Al + 2Cl₂ → Al₃Cl₂"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-combustion-reactions-which-balanced-equation-represents-a-single-replacement-reac-7",
+          "type": "mc",
+          "questionText": "Which balanced equation represents a single replacement reaction?",
+          "topic": "Combustion Reactions",
+          "hint": "In single replacement, one element replaces another in a compound.",
+          "choices": [
+            "Fe + CuCl₂ → FeCl₂ + Cu",
+            "2H₂ + O₂ → 2H₂O",
+            "NaOH + HCl → NaCl + H₂O",
+            "CaCO₃ → CaO + CO₂"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-combustion-reactions-a-fuel-with-the-formula-c-h-burns-completely-in-oxygen-which-8",
+          "type": "mc",
+          "questionText": "A fuel with the formula C₂H₆ burns completely in oxygen. Which products should form?",
+          "topic": "Combustion Reactions",
+          "hint": "Complete combustion of hydrocarbons produces carbon dioxide and water.",
+          "choices": [
+            "CO₂ and H₂O",
+            "CO and H₂ only",
+            "NaCl and H₂O",
+            "O₂ and H₂"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-states-of-matter-which-equation-correctly-represents-the-complete-combustion--9",
+          "type": "mc",
+          "questionText": "Which equation correctly represents the complete combustion of ethane?",
+          "topic": "States of Matter",
+          "hint": "Balance carbon first, hydrogen second, and oxygen last.",
+          "choices": [
+            "C₂H₆ + O₂ → CO₂ + H₂O",
+            "2C₂H₆ + 7O₂ → 4CO₂ + 6H₂O",
+            "C₂H₆ + 7O₂ → 2CO₂ + 3H₂O",
+            "2C₂H₆ + O₂ → 4CO₂ + 6H₂O"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-mole-to-mole-conversions-in-the-equation-below-which-substance-is-aqueous-ca-s-2h-o-l-10",
+          "type": "mc",
+          "questionText": "In the equation below, which substance is aqueous? Ca(s) + 2H₂O(l) → Ca(OH)₂(aq) + H₂(g)",
+          "topic": "Mole-to-Mole Conversions",
+          "hint": "The symbol (aq) means dissolved in water.",
+          "choices": [
+            "Ca",
+            "H₂O",
+            "Ca(OH)₂",
+            "H₂"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-mass-to-mass-conversions-for-the-reaction-below-how-many-moles-of-nh-are-produced-fro-11",
+          "type": "mc",
+          "questionText": "For the reaction below, how many moles of NH₃ are produced from 6.00 mol of H₂? N₂ + 3H₂ → 2NH₃",
+          "topic": "Mass-to-Mass Conversions",
+          "hint": "Use the mole ratio 3 mol H₂ : 2 mol NH₃.",
+          "choices": [
+            "2.00 mol NH₃",
+            "3.00 mol NH₃",
+            "4.00 mol NH₃",
+            "6.00 mol NH₃"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-percent-yield-for-the-reaction-below-what-mass-of-co-is-produced-from-2-00-12",
+          "type": "mc",
+          "questionText": "For the reaction below, what mass of CO₂ is produced from 2.00 mol of CH₄? CH₄ + 2O₂ → CO₂ + 2H₂O",
+          "topic": "Percent Yield",
+          "hint": "1 mol CH₄ produces 1 mol CO₂, and CO₂ has a molar mass of about 44.0 g/mol.",
+          "choices": [
+            "22.0 g CO₂",
+            "44.0 g CO₂",
+            "66.0 g CO₂",
+            "88.0 g CO₂"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-chemistry-a-reaction-has-a-theoretical-yield-of-30-0-g-but-only-24-0-g-13",
+          "type": "mc",
+          "questionText": "A reaction has a theoretical yield of 30.0 g, but only 24.0 g of product is collected. What is the percent yield?",
+          "topic": "Chemistry",
+          "hint": "Percent yield = actual yield ÷ theoretical yield × 100.",
+          "choices": [
+            "60.0%",
+            "75.0%",
+            "80.0%",
+            "125%"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-chemistry-for-the-reaction-below-n-3h-2nh-if-you-have-2-mol-n-and-3-mo-14",
+          "type": "mc",
+          "questionText": "For the reaction below: N₂ + 3H₂ → 2NH₃ If you have 2 mol N₂ and 3 mol H₂, which reactant is limiting?",
+          "topic": "Chemistry",
+          "hint": "1 mol N₂ needs 3 mol H₂. Check which reactant runs out first.",
+          "choices": [
+            "N₂",
+            "H₂",
+            "NH₃",
+            "No reactant is limiting"
+          ],
+          "correctIndex": 1
         }
       ]
     }
