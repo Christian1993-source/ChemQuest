@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T15:52:26.478Z",
+  "updatedAt": "2026-05-18T17:21:53.534Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -3779,6 +3779,322 @@
             "11.2 g Ca(OH)₂"
           ],
           "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "review-b50f55ec-d171-4ea4-9109-4ba753c331f0",
+      "title": "Unit 4: Kinematics",
+      "topics": [
+        "Chemical Kinetics",
+        "Fast and Slow Reactions",
+        "Collision Theory",
+        "Effective Collision",
+        "Rate of Reaction",
+        "Reaction Time",
+        "Concentration",
+        "Molarity",
+        "Reaction Rate Formula",
+        "Units of Reaction Rate",
+        "Product Formation",
+        "Reactant Use",
+        "Reaction Graphs",
+        "Acids and bases"
+      ],
+      "questions": [
+        {
+          "id": "question-chemical-kinetics-what-is-chemical-kinetics-1",
+          "type": "mc",
+          "questionText": "What is chemical kinetics?",
+          "topic": "Chemical Kinetics",
+          "hint": "Chemical kinetics is about reaction speed.",
+          "choices": [
+            "The study of atomic structure",
+            "The study of how fast chemical reactions happen",
+            "The study of chemical names",
+            "The study of periodic table groups"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-fast-and-slow-reactions-chemical-kinetics-is-most-closely-related-to-2",
+          "type": "mc",
+          "questionText": "Chemical kinetics is most closely related to:",
+          "topic": "Fast and Slow Reactions",
+          "hint": "Kinetics tells us how fast or slow a reaction happens.",
+          "choices": [
+            "Reaction speed",
+            "Atomic mass",
+            "Electron shells",
+            "Density"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-fast-and-slow-reactions-which-example-is-a-fast-reaction-3",
+          "type": "mc",
+          "questionText": "Which example is a fast reaction?",
+          "topic": "Fast and Slow Reactions",
+          "hint": "Fast reactions happen in a short amount of time.",
+          "choices": [
+            "Rusting metal",
+            "Food spoiling",
+            "Burning paper",
+            "Leaves decomposing"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-collision-theory-which-example-is-a-slow-reaction-4",
+          "type": "mc",
+          "questionText": "Which example is a slow reaction?",
+          "topic": "Collision Theory",
+          "hint": "Rusting usually takes a long time.",
+          "choices": [
+            "Fireworks",
+            "Baking soda and vinegar",
+            "Burning paper",
+            "Rusting metal"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-collision-theory-chemical-reactions-happen-when-particles-5",
+          "type": "mc",
+          "questionText": "Chemical reactions happen when particles:",
+          "topic": "Collision Theory",
+          "hint": "Particles must collide for a reaction to happen.",
+          "choices": [
+            "Freeze",
+            "Disappear",
+            "Collide",
+            "Stop moving"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-effective-collision-does-every-collision-between-particles-create-a-reaction-6",
+          "type": "mc",
+          "questionText": "Does every collision between particles create a reaction?",
+          "topic": "Effective Collision",
+          "hint": "Not every collision has enough energy or the correct orientation.",
+          "choices": [
+            "Yes, every collision reacts",
+            "No, only successful collisions create reactions",
+            "Yes, if particles are cold",
+            "No, collisions never matter"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-effective-collision-for-a-successful-collision-particles-must-collide-with-7",
+          "type": "mc",
+          "questionText": "For a successful collision, particles must collide with:",
+          "topic": "Effective Collision",
+          "hint": "Successful collision = enough energy + correct orientation.",
+          "choices": [
+            "Enough energy and correct orientation",
+            "Low temperature and no movement",
+            "High mass and low speed",
+            "Water and salt"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-rate-of-reaction-a-collision-that-does-not-produce-a-reaction-is-called-8",
+          "type": "mc",
+          "questionText": "A collision that does not produce a reaction is called:",
+          "topic": "Rate of Reaction",
+          "hint": "Ineffective means the collision did not successfully form products.",
+          "choices": [
+            "Product collision",
+            "Effective collision",
+            "Ineffective collision",
+            "Molar collision"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-rate-of-reaction-rate-of-reaction-means-how-fast-9",
+          "type": "mc",
+          "questionText": "Rate of reaction means how fast:",
+          "topic": "Rate of Reaction",
+          "hint": "Reaction rate measures change over time.",
+          "choices": [
+            "Reactants are used up or products are formed",
+            "Atoms become heavier",
+            "Water freezes",
+            "Elements change symbols"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-reaction-time-a-reaction-is-fast-when-10",
+          "type": "mc",
+          "questionText": "A reaction is fast when:",
+          "topic": "Reaction Time",
+          "hint": "Faster reactions show faster visible changes.",
+          "choices": [
+            "Reactants disappear slowly",
+            "Products appear slowly",
+            "Nothing changes",
+            "Reactants disappear quickly or products appear quickly"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": "question-reaction-time-an-effervescent-tablet-reacts-in-cup-a-in-30-s-and-in-cup-b--11",
+          "type": "mc",
+          "questionText": "An effervescent tablet reacts in Cup A in 30 s and in Cup B in 90 s. Which reaction is faster?",
+          "topic": "Reaction Time",
+          "hint": "Shorter time means faster reaction.",
+          "choices": [
+            "Cup A",
+            "Cup B",
+            "Both are the same",
+            "Neither reacts"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-concentration-if-a-reaction-takes-less-time-to-finish-the-reaction-is-12",
+          "type": "mc",
+          "questionText": "If a reaction takes less time to finish, the reaction is:",
+          "topic": "Concentration",
+          "hint": "Shorter time → faster reaction.",
+          "choices": [
+            "Slower",
+            "Faster",
+            "Stopped",
+            "Impossible"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-molarity-concentration-means-13",
+          "type": "mc",
+          "questionText": "Concentration means:",
+          "topic": "Molarity",
+          "hint": "Concentration tells how much solute is dissolved in a volume.",
+          "choices": [
+            "Amount of substance in a certain volume",
+            "Total mass of the container",
+            "Number of protons",
+            "Temperature of a solid"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-molarity-in-chemistry-concentration-is-often-measured-in-14",
+          "type": "mc",
+          "questionText": "In chemistry, concentration is often measured in:",
+          "topic": "Molarity",
+          "hint": "M means molarity.",
+          "choices": [
+            "kg",
+            "M",
+            "cm",
+            "s"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-reaction-rate-formula-what-does-1-m-mean-15",
+          "type": "mc",
+          "questionText": "What does 1 M mean?",
+          "topic": "Reaction Rate Formula",
+          "hint": "Molarity has units of mol/L.",
+          "choices": [
+            "1 gram per second",
+            "1 mole per kilogram",
+            "1 mole per liter",
+            "1 liter per mole"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-units-of-reaction-rate-the-average-reaction-rate-can-be-calculated-using-16",
+          "type": "mc",
+          "questionText": "The average reaction rate can be calculated using:",
+          "topic": "Units of Reaction Rate",
+          "hint": "Rate compares concentration change with time change.",
+          "choices": [
+            "v = mass × volume",
+            "v = |Δconcentration| ÷ Δt",
+            "v = moles × liters",
+            "v = temperature ÷ mass"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-product-formation-the-units-of-reaction-rate-are-usually-17",
+          "type": "mc",
+          "questionText": "The units of reaction rate are usually:",
+          "topic": "Product Formation",
+          "hint": "Reaction rate is molarity per second.",
+          "choices": [
+            "M/s",
+            "g/mol",
+            "L/mol",
+            "mol only"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-reactant-use-if-a-product-is-forming-its-concentration-18",
+          "type": "mc",
+          "questionText": "If a product is forming, its concentration:",
+          "topic": "Reactant Use",
+          "hint": "Products increase as the reaction proceeds.",
+          "choices": [
+            "Decreases",
+            "Stays at zero",
+            "Increases",
+            "Becomes negative"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-reaction-graphs-if-a-reactant-is-being-used-up-its-concentration-19",
+          "type": "mc",
+          "questionText": "If a reactant is being used up, its concentration:",
+          "topic": "Reaction Graphs",
+          "hint": "Reactants decrease because they are consumed.",
+          "choices": [
+            "Increases",
+            "Decreases",
+            "Stays the same forever",
+            "Becomes a catalyst"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-reaction-graphs-on-a-reaction-graph-product-concentration-usually-20",
+          "type": "mc",
+          "questionText": "On a reaction graph, product concentration usually:",
+          "topic": "Reaction Graphs",
+          "hint": "Products form as time passes.",
+          "choices": [
+            "Increases with time",
+            "Decreases to zero",
+            "Never changes",
+            "Becomes negative"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-acids-and-bases-on-a-reaction-graph-reactant-concentration-usually-21",
+          "type": "mc",
+          "questionText": "On a reaction graph, reactant concentration usually:",
+          "topic": "Acids and bases",
+          "hint": "Reactants are used up during a reaction.",
+          "choices": [
+            "Increases with time",
+            "Stays exactly the same",
+            "Decreases with time",
+            "Turns into temperature"
+          ],
+          "correctIndex": 2
         }
       ]
     }
