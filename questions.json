@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T17:21:53.534Z",
+  "updatedAt": "2026-05-18T19:05:26.095Z",
   "reviews": [
     {
       "id": "review-74b62895-61ab-4a69-9df2-cfb74eda70f4",
@@ -4095,6 +4095,384 @@
             "Turns into temperature"
           ],
           "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "review-fec22055-cada-4962-8519-494d99093520",
+      "title": "Moles, Stoichiometry, and Kinetics Exam Review",
+      "topics": [
+        "Molar Quantities",
+        "Particles and Moles",
+        "Molar Mass",
+        "Molecular Formula",
+        "Empirical and Molecular Formula",
+        "Chemical Reactions",
+        "Limiting Reactant",
+        "Collision Theory",
+        "Mole Ratio",
+        "Percent Yield",
+        "Reaction Rate Graphs",
+        "Rate of Reaction",
+        "Balancing Equations",
+        "Reaction Types",
+        "Stoichiometry",
+        "Reaction Lab",
+        "Evidence of Reaction",
+        "Reaction Rate",
+        "Percent Composition",
+        "Empirical Formula"
+      ],
+      "questions": [
+        {
+          "id": "question-molar-quantities-what-is-the-correct-formula-for-iron-iii-oxide-1",
+          "type": "mc",
+          "questionText": "What is the correct formula for iron(III) oxide?",
+          "topic": "Molar Quantities",
+          "hint": "Iron(III) means Fe³⁺ and oxide is O²⁻.",
+          "choices": [
+            "FeO",
+            "Fe₂O₃",
+            "Fe₃O₂",
+            "FeO₃"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-particles-and-moles-which-quantity-has-units-of-g-mol-2",
+          "type": "mc",
+          "questionText": "Which quantity has units of g/mol?",
+          "topic": "Particles and Moles",
+          "hint": "Molar mass is measured in grams per mole.",
+          "choices": [
+            "Mass number",
+            "Relative atomic mass",
+            "Molar mass",
+            "Atomic number"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-molar-mass-what-is-the-number-of-hydrogen-atoms-in-3-00-moles-of-mg-oh-3",
+          "type": "mc",
+          "questionText": "What is the number of hydrogen atoms in 3.00 moles of Mg(OH)₂?",
+          "topic": "Molar Mass",
+          "hint": "Each Mg(OH)₂ unit contains 2 hydrogen atoms.",
+          "choices": [
+            "6.02 × 10²³",
+            "1.81 × 10²⁴",
+            "3.61 × 10²⁴",
+            "6.00"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-molecular-formula-what-is-the-molar-mass-of-a-compound-if-0-150-mol-has-a-mass-4",
+          "type": "mc",
+          "questionText": "What is the molar mass of a compound if 0.150 mol has a mass of 9.00 g?",
+          "topic": "Molecular Formula",
+          "hint": "Molar mass = mass ÷ moles.",
+          "choices": [
+            "60.0 g/mol",
+            "45.0 g/mol",
+            "30.0 g/mol",
+            "1.35 g/mol"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-empirical-and-molecular-formula-what-information-does-a-molecular-formula-provide-5",
+          "type": "mc",
+          "questionText": "What information does a molecular formula provide?",
+          "topic": "Empirical and Molecular Formula",
+          "hint": "Molecular formula gives the real number of atoms.",
+          "choices": [
+            "The simplest whole-number ratio of atoms",
+            "The actual number of atoms in a molecule",
+            "The number of molecules in one mole",
+            "The types of bonds in a molecule"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-chemical-reactions-a-compound-has-an-empirical-formula-of-ch-and-a-molecular-ma-6",
+          "type": "mc",
+          "questionText": "A compound has an empirical formula of CH₂ and a molecular mass of 42 g/mol. What is its molecular formula?",
+          "topic": "Chemical Reactions",
+          "hint": "Empirical formula mass of CH₂ is 14 g/mol.",
+          "choices": [
+            "CH₂",
+            "C₂H₄",
+            "C₃H₆",
+            "C₄H₈"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-limiting-reactant-in-a-chemical-reaction-atoms-usually-7",
+          "type": "mc",
+          "questionText": "In a chemical reaction, atoms usually:",
+          "topic": "Limiting Reactant",
+          "hint": "Chemical reactions rearrange atoms.",
+          "choices": [
+            "Disappear completely",
+            "Become new elements",
+            "Rearrange and re-bond to form products",
+            "Stop moving"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-collision-theory-for-zn-2hcl-zncl-h-0-30-mol-zn-reacts-with-0-40-mol-hcl-whic-8",
+          "type": "mc",
+          "questionText": "For Zn + 2HCl → ZnCl₂ + H₂, 0.30 mol Zn reacts with 0.40 mol HCl. Which statement is correct?",
+          "topic": "Collision Theory",
+          "hint": "2 mol HCl produce 1 mol H₂.",
+          "choices": [
+            "Zn is limiting and 0.30 mol H₂ forms",
+            "HCl is limiting and 0.20 mol H₂ forms",
+            "Zn is limiting and 0.15 mol H₂ forms",
+            "HCl is limiting and 0.40 mol H₂ forms"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-mole-ratio-which-conditions-are-required-for-a-chemical-reaction-to-occ-9",
+          "type": "mc",
+          "questionText": "Which conditions are required for a chemical reaction to occur?",
+          "topic": "Mole Ratio",
+          "hint": "Successful collisions need enough energy and correct orientation.",
+          "choices": [
+            "Enough energy and correct orientation",
+            "Same color and same state",
+            "Low temperature and no movement",
+            "Same mass and same density"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-percent-yield-for-4fes-11o-2fe-o-8so-how-many-moles-of-fes-are-needed-to-p-10",
+          "type": "mc",
+          "questionText": "For 4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂, how many moles of FeS₂ are needed to produce 128.14 g of SO₂?",
+          "topic": "Percent Yield",
+          "hint": "Convert grams of SO₂ to moles first.",
+          "choices": [
+            "0.50 mol",
+            "1.00 mol",
+            "2.00 mol",
+            "4.00 mol"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-reaction-rate-graphs-for-4nh-5o-4no-6h-o-if-17-04-g-of-nh-produces-24-0-g-of-no-w-11",
+          "type": "mc",
+          "questionText": "For 4NH₃ + 5O₂ → 4NO + 6H₂O, if 17.04 g of NH₃ produces 24.0 g of NO, what is the percent yield?",
+          "topic": "Reaction Rate Graphs",
+          "hint": "Percent yield = actual yield ÷ theoretical yield × 100.",
+          "choices": [
+            "60%",
+            "75%",
+            "80%",
+            "100%"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-reaction-rate-graphs-which-reactant-graph-shows-the-greatest-initial-rate-of-disa-12",
+          "type": "mc",
+          "questionText": "Which reactant graph shows the greatest initial rate of disappearance?",
+          "topic": "Reaction Rate Graphs",
+          "hint": "Greatest initial rate means steepest downward slope at the start.",
+          "choices": [
+            "A graph with a very steep decrease at the beginning",
+            "A graph with a slow decrease at the beginning",
+            "A graph where concentration increases over time",
+            "A flat graph with no concentration change"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-rate-of-reaction-which-graph-is-not-possible-for-a-reactant-concentration-ver-13",
+          "type": "mc",
+          "questionText": "Which graph is not possible for a reactant concentration versus time graph?",
+          "topic": "Rate of Reaction",
+          "hint": "Reactants are used up, so their concentration should decrease.",
+          "choices": [
+            "Reactant concentration decreases quickly then levels off",
+            "Reactant concentration decreases linearly",
+            "Reactant concentration increases over time",
+            "Reactant concentration decreases slowly"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-balancing-equations-for-h-i-2hi-the-concentration-of-h-changes-from-0-800-m-to-0-14",
+          "type": "mc",
+          "questionText": "For H₂ + I₂ → 2HI, the concentration of H₂ changes from 0.800 M to 0.740 M in 0.200 s. What is the rate of disappearance of H₂?",
+          "topic": "Balancing Equations",
+          "hint": "Rate = |change in concentration| ÷ change in time.",
+          "choices": [
+            "0.060 M/s",
+            "0.200 M/s",
+            "0.300 M/s",
+            "1.50 M/s"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-reaction-types-potassium-oxide-reacts-with-oxygen-to-form-potassium-peroxid-15",
+          "type": "mc",
+          "questionText": "Potassium oxide reacts with oxygen to form potassium peroxide. Which equation is balanced?",
+          "topic": "Reaction Types",
+          "hint": "Count potassium and oxygen atoms on both sides.",
+          "choices": [
+            "K₂O + O₂ → K₂O₂",
+            "2K₂O + O₂ → 2K₂O₂",
+            "K₂O₂ → K₂O + O₂",
+            "2K₂O₂ → 2K₂O + O₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-percent-yield-what-type-of-reaction-is-2k-o-o-2k-o-16",
+          "type": "mc",
+          "questionText": "What type of reaction is 2K₂O + O₂ → 2K₂O₂?",
+          "topic": "Percent Yield",
+          "hint": "Synthesis combines substances to form one main product.",
+          "choices": [
+            "Decomposition",
+            "Single replacement",
+            "Synthesis",
+            "Double replacement"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-limiting-reactant-for-2k-o-o-2k-o-if-6-00-g-of-k-o-produces-5-60-g-of-k-o-what-17",
+          "type": "mc",
+          "questionText": "For 2K₂O + O₂ → 2K₂O₂, if 6.00 g of K₂O produces 5.60 g of K₂O₂, what is the percent yield?",
+          "topic": "Limiting Reactant",
+          "hint": "Find theoretical yield first, then calculate percent yield.",
+          "choices": [
+            "60.0%",
+            "79.8%",
+            "95.0%",
+            "120%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-for-2li-o-2co-2li-co-o-if-1-50-g-li-o-reacts-with-2-00-g-co--18",
+          "type": "mc",
+          "questionText": "For 2Li₂O₂ + 2CO₂ → 2Li₂CO₃ + O₂, if 1.50 g Li₂O₂ reacts with 2.00 g CO₂, which reactant is limiting?",
+          "topic": "Stoichiometry",
+          "hint": "Convert both reactants to moles and compare the mole ratio.",
+          "choices": [
+            "Li₂O₂",
+            "CO₂",
+            "Li₂CO₃",
+            "O₂"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-reaction-lab-for-2li-o-2co-2li-co-o-how-many-grams-of-o-can-be-produced-f-19",
+          "type": "mc",
+          "questionText": "For 2Li₂O₂ + 2CO₂ → 2Li₂CO₃ + O₂, how many grams of O₂ can be produced from 1.50 g Li₂O₂?",
+          "topic": "Reaction Lab",
+          "hint": "2 mol Li₂O₂ produce 1 mol O₂.",
+          "choices": [
+            "0.262 g O₂",
+            "0.523 g O₂",
+            "1.05 g O₂",
+            "2.00 g O₂"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-reaction-lab-for-zn-2hcl-zncl-h-what-gas-is-produced-20",
+          "type": "mc",
+          "questionText": "For Zn + 2HCl → ZnCl₂ + H₂, what gas is produced?",
+          "topic": "Reaction Lab",
+          "hint": "H₂ is hydrogen gas.",
+          "choices": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Hydrogen",
+            "Nitrogen"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "question-evidence-of-reaction-why-does-a-pop-sound-occur-when-a-lit-wooden-splint-is-place-21",
+          "type": "mc",
+          "questionText": "Why does a pop sound occur when a lit wooden splint is placed near the test tube opening?",
+          "topic": "Evidence of Reaction",
+          "hint": "Hydrogen gas burns with a small pop sound.",
+          "choices": [
+            "Hydrogen gas combusts quickly",
+            "Oxygen freezes",
+            "Zinc melts instantly",
+            "Hydrochloric acid becomes solid"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-reaction-rate-which-observation-is-evidence-that-a-chemical-reaction-occur-22",
+          "type": "mc",
+          "questionText": "Which observation is evidence that a chemical reaction occurred when zinc reacted with hydrochloric acid?",
+          "topic": "Reaction Rate",
+          "hint": "Bubbles can show that a gas is being produced.",
+          "choices": [
+            "Formation of bubbles",
+            "The beaker disappeared",
+            "The atoms stopped moving",
+            "The solution became pure water"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-percent-composition-experiment-a-produces-50-cm-of-gas-in-20-s-experiment-b-prod-23",
+          "type": "mc",
+          "questionText": "Experiment A produces 50 cm³ of gas in 20 s. Experiment B produces 50 cm³ of gas in 50 s. Which experiment has the faster reaction rate?",
+          "topic": "Percent Composition",
+          "hint": "Same amount of gas in less time means faster reaction.",
+          "choices": [
+            "Experiment A",
+            "Experiment B",
+            "Both have the same rate",
+            "Neither experiment reacts"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "question-empirical-formula-a-compound-contains-40-00-carbon-6-71-hydrogen-and-oxygen-wh-24",
+          "type": "mc",
+          "questionText": "A compound contains 40.00% carbon, 6.71% hydrogen, and oxygen. What is the percentage of oxygen?",
+          "topic": "Empirical Formula",
+          "hint": "All percentages in a compound add to 100%.",
+          "choices": [
+            "46.71%",
+            "53.29%",
+            "60.00%",
+            "66.71%"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "question-stoichiometry-a-compound-contains-40-00-carbon-6-71-hydrogen-and-53-29-oxy-25",
+          "type": "mc",
+          "questionText": "A compound contains 40.00% carbon, 6.71% hydrogen, and 53.29% oxygen. What is the empirical formula?",
+          "topic": "Stoichiometry",
+          "hint": "Assume 100 g, convert to moles, then divide by the smallest.",
+          "choices": [
+            "CHO",
+            "CH₂O",
+            "C₂H₄O₂",
+            "C₆H₁₂O₆"
+          ],
+          "correctIndex": 1
         }
       ]
     }
